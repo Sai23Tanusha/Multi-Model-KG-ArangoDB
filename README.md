@@ -18,7 +18,7 @@ The package defines a set of classes that allow you to represent Wikidata entiti
    2) sparql query service   ---------- (IMPLEMENTED)
    3) json dump   ---------- (IMPLEMENTED)
 
-- refer : <code style="color : greenyellow"> Wikidata-Extraction-SPARQL.rst </code>
+#f03c15 refer : Wikidata-Extraction-SPARQL.rst
 - to implement `2)` i have used `Wikidata Query Service` and have formed 2 collections Items and Props. Was finiding it difficult to form a edge collection.
 
 - refer : Wikidata-Extraction.ipynb
