@@ -14,11 +14,13 @@ Processing Wikidata dumps is just like any ETL job: `Extract` `Transform` `Load`
 --------------------------------------------------------------------------------------
 qwikidata is a Python package with tools that allow you to interact with Wikidata.
 The package defines a set of classes that allow you to represent Wikidata entities in a Pythonic way. It also provides a Pythonic way to access three data sources,
-   [] linked data interface
-   [x] sparql query service   ---------- (IMPLEMENTED)
-   [x] json dump   ---------- (IMPLEMENTED)
-
-- refer : " Wikidata-Extraction-SPARQL.rst "
+   1) linked data interface
+   2) sparql query service   ---------- (IMPLEMENTED)
+   3) json dump   ---------- (IMPLEMENTED)
+ 
+```diff
++ refer : Wikidata-Extraction-SPARQL.rst 
+```
 - to implement 2) i have used `Wikidata Query Service` and have formed 2 collections Items and Props. Was finiding it difficult to form a edge collection.
 
 - refer : Wikidata-Extraction.ipynb
