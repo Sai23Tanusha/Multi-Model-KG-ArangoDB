@@ -19,11 +19,13 @@ The package defines a set of classes that allow you to represent Wikidata entiti
    3) json dump   ---------- (IMPLEMENTED)
  
 ```diff
- refer : Wikidata-Extraction-SPARQL.rst
+@@ refer : Wikidata-Extraction-SPARQL.rst @@
 ```
 - to implement 2) i have used `Wikidata Query Service` and have formed 2 collections Items and Props. Was finiding it difficult to form a edge collection.
 
-- refer : Wikidata-Extraction.ipynb
+```diff
+@@ refer : Wikidata-Extraction.ipynb @@
+```
 - i have implemented 3) using `qwikidata` and `pyarango` and have formed all the collections mentioned in step 2.
  
 --------------------------------------------------------------------------------------
@@ -37,4 +39,4 @@ create collections in arangodb with these given names and load the data in JSON 
 
 `WikiEdge` - edge collection containing edges between items and properties. (_from : WikiItems , _to : WikiProps)
 
-`WikiClaims` - claim collection containing property keys with labels. (refer " WikiClaims-Queries" )
+`WikiClaims` - claim collection containing property keys with labels. ```diff @@ (refer " WikiClaims-Queries" ) @@ ```
