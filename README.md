@@ -19,12 +19,14 @@ The package defines a set of classes that allow you to represent Wikidata entiti
    3) json dump   ---------- (IMPLEMENTED)
 
 * sparql query services :
-        refer : Wikidata-SPARQL.rst
-        to implement this i have used `Wikidata Query Service` and have formed 2 collections Items and Props. Was finiding it difficult to form a edge collection.
+
+- refer : Wikidata-Extraction-SPARQL.rst
+- to implement this i have used `Wikidata Query Service` and have formed 2 collections Items and Props. Was finiding it difficult to form a edge collection.
         
 * json dump :
-        refer : Wikidata-Extraction.ipynb
-        i have implemented this using `qwikidata` and `pyarango` and have formed all the collections mentioned in step 2.
+
+- refer : Wikidata-Extraction.ipynb
+- i have implemented this using `qwikidata` and `pyarango` and have formed all the collections mentioned in step 2.
  
 --------------------------------------------------------------------------------------
 ### STEP 2
