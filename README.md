@@ -19,7 +19,7 @@ The package defines a set of classes that allow you to represent Wikidata entiti
    3) json dump   ---------- (IMPLEMENTED)
  
 ```diff
-+ refer : Wikidata-Extraction-SPARQL.rst 
+ refer : Wikidata-Extraction-SPARQL.rst
 ```
 - to implement 2) i have used `Wikidata Query Service` and have formed 2 collections Items and Props. Was finiding it difficult to form a edge collection.
 
