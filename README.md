@@ -40,6 +40,21 @@ create collections in arangodb with these given names and load the data in JSON 
 `WikiEdge` - edge collection containing edges between items and properties. (_from : WikiItems , _to : WikiProps)
 
 `WikiClaims` - claim collection containing property keys with labels.
-- ```diff 
-  @@ (refer " WikiClaims-Queries" ) @@ 
-  ```
+- also can be said as ___VIEWS___
+```diff 
+@@ (refer " WikiClaims-Queries" ) @@ 
+```
+--------------------------------------------------------------------------------------
+### STEP 3
+--------------------------------------------------------------------------------------
+create a graph where we input edge collection, _from and _to. 
+```diff 
+@@ (refer "Wikidata.pptx" ) @@ 
+```
+--------------------------------------------------------------------------------------
+### STEP 4
+--------------------------------------------------------------------------------------
+Formed 2 Questions and performed AQL queries based on that.
+```diff 
+@@ (refer " Questions-Queries" ) @@ 
+```
