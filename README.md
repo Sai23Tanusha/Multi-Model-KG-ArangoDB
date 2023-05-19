@@ -39,4 +39,7 @@ create collections in arangodb with these given names and load the data in JSON 
 
 `WikiEdge` - edge collection containing edges between items and properties. (_from : WikiItems , _to : WikiProps)
 
-`WikiClaims` - claim collection containing property keys with labels. ```diff @@ (refer " WikiClaims-Queries" ) @@ ```
+`WikiClaims` - claim collection containing property keys with labels.
+- ```diff 
+  @@ (refer " WikiClaims-Queries" ) @@ 
+  ```
