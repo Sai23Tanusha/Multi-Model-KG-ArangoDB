@@ -1,4 +1,4 @@
-## Problem Set 1 - `Sai Tanusha (Tech Pirates)`
+## Problem Set 1 - `Sai Tanusha` `(Tech Pirates)`
 ## Multi-Model Database Knowledge Graphs Using ArangoDB with Wikidata 
 -------------------------------------------------------------------------------------
 
