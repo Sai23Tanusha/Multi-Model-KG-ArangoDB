@@ -10,17 +10,23 @@ Wikidata is a free, multilingual knowledge graph that contains structured data o
 Processing Wikidata dumps is just like any ETL job: `Extract` `Transform` `Load`
 
 --------------------------------------------------------------------------------------
-
+### STEP 1
+--------------------------------------------------------------------------------------
 qwikidata is a Python package with tools that allow you to interact with Wikidata.
 The package defines a set of classes that allow you to represent Wikidata entities in a Pythonic way. It also provides a Pythonic way to access three data sources,
    1) linked data interface
    2) sparql query service   ---------- (IMPLEMENTED)
    3) json dump   ---------- (IMPLEMENTED)
-   
+ 
+--------------------------------------------------------------------------------------
+### STEP 2
+--------------------------------------------------------------------------------------
+create collections in arangodb with these given names and load the data in JSON format.
+
 `WikiItems` - items collection containing item labels, descriptions and claims.
 
 `WikiProps` - property collection containing property labels and descriptions.
 
-`WikiEdge` - edge collection containing edges between items and properties.
+`WikiEdge` - edge collection containing edges between items and properties. (_from : items , _to : properties)
 
 `WikiClaims` - claim collection containing property keys with labels.
