@@ -1,0 +1,6 @@
+_id,_key,_rev,claims,description,label,type
+WikiItems/Q1,Q1,_gBP4BAC---,"OmegaWiki Defined Meaning,instance of,GND identifier","totality of planets, stars, galaxies, intergalactic space, and all matter and energy",universe,item
+WikiItems/Q8,Q8,_gBP4BAK---,"OmegaWiki Defined Meaning,instance of",mental or emotional state of well-being characterized by pleasant emotions,happiness,item
+WikiItems/Q23,Q23,_gBP4BAW---,"cause of death,place of birth,signature,father,GND identifier,award received,place of burial,position held,NLA identifier,given name,member of political party,instance of,CANTIC,Oxford Biography Index Number,manner of death","American politician, 1st president of the United States (in office from 1789 to 1797)",George Washington,item
+WikiItems/Q24,Q24,_gBP4BAi---,"instance of,given name,employer,place of birth,father,award received,academic degree,present in work",main character of the television series 24,Jack Bauer,item
+WikiItems/Q31,Q31,_gBP4BAu---,"instance of,capital,official language,flag,ISO 3166-1 alpha-3,GND identifier,head of state,executive body,main regulatory text,Wikivoyage banner,dmoz,time zone,GeoNames ID",country in Europe,Belgium,item
