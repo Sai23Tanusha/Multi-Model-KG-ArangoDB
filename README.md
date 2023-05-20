@@ -64,5 +64,5 @@ Formed 2 Questions and performed AQL queries based on that.
 ```
 - Q 2. Using 3 Edge collections and with a minimum of 2 hops and a max of 3 hops between the airports find the path in the form of a graph.
 ```diff
-@@ result-graph.png @@
+@@ result-graph.jpg @@
 ```
