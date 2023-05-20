@@ -49,7 +49,7 @@ create collections in arangodb with these given names and load the data in JSON 
 --------------------------------------------------------------------------------------
 create a graph where we input edge collection, _from and _to. 
 ```diff 
-@@ (refer "Wikidata.pptx" ) @@ 
+@@ (refer "Wikidata.pptx" ) for graph images @@ 
 ```
 --------------------------------------------------------------------------------------
 ### STEP 4
@@ -58,3 +58,5 @@ Formed 2 Questions and performed AQL queries based on that.
 ```diff 
 @@ (refer " Questions-Queries" ) @@ 
 ```
+- Q 1.  Find the instances of all the items collectively and extract the result in the form of json file.
+- Q 2. 
