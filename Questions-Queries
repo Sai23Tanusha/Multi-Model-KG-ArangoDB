@@ -5,4 +5,4 @@ FOR i IN WikiItems
     LIMIT 5
     RETURN MERGE(i, { claims: DOCUMENT("WikiClaims", i.claims)[*].prop} )
     
-======= Result - results-_system.json =======
+======= Result - results-_system.csv =======
