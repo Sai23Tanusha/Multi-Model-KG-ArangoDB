@@ -1,9 +1,8 @@
-```diff
-@@ Q 1.  Find the instances of all the items collectively and extract the result in the form of json file. @@
-```
+Q 1.  Find the instances of all the items collectively and extract the result in the form of json file.
 
+(AQL query) :- 
 FOR i IN WikiItems
     LIMIT 5
     RETURN MERGE(i, { claims: DOCUMENT("WikiClaims", i.claims)[*].prop} )
     
-` Result - results-_system `
+======= Result - results-_system.json =======
