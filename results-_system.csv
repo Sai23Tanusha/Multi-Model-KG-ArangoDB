@@ -1,0 +1,1001 @@
+_id,_key,_rev,claims,description,label,type
+WikiItems/Q1,Q1,_gBP4BAC---,"OmegaWiki Defined Meaning,instance of,GND identifier","totality of planets, stars, galaxies, intergalactic space, and all matter and energy",universe,item
+WikiItems/Q8,Q8,_gBP4BAK---,"OmegaWiki Defined Meaning,instance of",mental or emotional state of well-being characterized by pleasant emotions,happiness,item
+WikiItems/Q23,Q23,_gBP4BAW---,"cause of death,place of birth,signature,father,GND identifier,award received,place of burial,position held,NLA identifier,given name,member of political party,instance of,CANTIC,Oxford Biography Index Number,manner of death","American politician, 1st president of the United States (in office from 1789 to 1797)",George Washington,item
+WikiItems/Q24,Q24,_gBP4BAi---,"instance of,given name,employer,place of birth,father,award received,academic degree,present in work",main character of the television series 24,Jack Bauer,item
+WikiItems/Q31,Q31,_gBP4BAu---,"instance of,capital,official language,flag,ISO 3166-1 alpha-3,GND identifier,head of state,executive body,main regulatory text,Wikivoyage banner,dmoz,time zone,GeoNames ID",country in Europe,Belgium,item
+WikiItems/Q33,Q33,_gBP4BA6---,"capital,official language,instance of,flag,ISO 3166-1 alpha-3,head of state,Wikivoyage banner,GND identifier,population,OmegaWiki Defined Meaning,southernmost point,GeoNames ID",republic in Northern Europe,Finland,item
+WikiItems/Q42,Q42,_gBP4BBC---,"participant,given name,instance of,place of birth,place of burial,MusicBrainz artist ID,GND identifier,cause of death,father,NLA identifier,BNE identifier,NTA identifier (Netherlands),CANTIC,Oxford Biography Index Number,employer,dmoz",English writer and humorist,Douglas Adams,item
+WikiItems/Q45,Q45,_gBP4BBK---,"capital,official language,head of state,instance of,ISO 3166-1 alpha-3,time zone,flag,Wikivoyage banner,GND identifier,dmoz,GeoNames ID",country in Europe,Portugal,item
+WikiItems/Q51,Q51,_gBP4BBS---,"instance of,Wikivoyage banner,GND identifier,GeoNames ID",continent,Antarctica,item
+WikiItems/Q55,Q55,_gBP4BBa---,"instance of,capital,population,official language,flag,ISO 3166-1 alpha-3,executive body,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,time zone,head of state,Human Development Index,OmegaWiki Defined Meaning,category for people who died here,GeoNames ID","largest constituent country of the Kingdom of the Netherlands, mainly located in Europe",Netherlands,item
+WikiItems/Q58,Q58,_gBP4BBe---,GND identifier,male reproductive organ,penis,item
+WikiItems/Q62,Q62,_gBP4BBm---,"type of administrative territorial entity,is in the administrative territorial entity,flag,instance of,GND identifier,Wikivoyage banner,dmoz,time zone,FIPS 6-4 (US counties),population,category for people who died here","combined city and county in California, USA",San Francisco,item
+WikiItems/Q68,Q68,_gBP4BBy---,GND identifier,simple general purpose device for performing arithmetics or logical operations,computer,item
+WikiItems/Q75,Q75,_gBP4BB2---,"opposite of,instance of,GND identifier",global system of connected computer networks,Internet,item
+WikiItems/Q83,Q83,_gBP4BCC---,"instance of,GND identifier,version,developer","wiki software, used on various websites",MediaWiki,item
+WikiItems/Q99,Q99,_gBP4BCO---,"capital,official language,type of administrative territorial entity,flag,time zone,is in the administrative territorial entity,Wikivoyage banner,dmoz,instance of,category for people who died here",state of the United States of America,California,item
+WikiItems/Q100,Q100,_gBP4BCW---,"instance of,is in the administrative territorial entity,flag,time zone,Wikivoyage banner,dmoz,category for people who died here","city in Massachusetts, United States of America",Boston,item
+WikiItems/Q102,Q102,_gBP4BCi---,instance of,lung inflammation caused by the inhalation of very fine silica dust,pneumonoultramicroscopicsilicovolcanoconiosis,item
+WikiItems/Q103,Q103,_gBP4BCm---,instance of,song from the musical Mary Poppins,Supercalifragilisticexpialidocioushehe,item
+WikiItems/Q125,Q125,_gBP4BCu---,"Wikivoyage banner,OmegaWiki Defined Meaning,follows,GND identifier",eleventh month in the Julian and Gregorian calendars,November,item
+WikiItems/Q129,Q129,_gBP4BC2---,"OmegaWiki Defined Meaning,follows,GND identifier",day of the week,Thursday,item
+WikiItems/Q136,Q136,_gBP4BDC---,instance of,piece in the board game of chess,knight,item
+WikiItems/Q140,Q140,_gBP4BDK---,"GND identifier,Encyclopedia of Life ID,taxon rank,taxon name,instance of,OmegaWiki Defined Meaning",species of big cat,lion,item
+WikiItems/Q144,Q144,_gBP4BDW---,"OmegaWiki Defined Meaning,taxon rank,taxon name,GND identifier,instance of,Encyclopedia of Life ID","subspecies of the Canidæ family, frequently kept as a pet",dog,item
+WikiItems/Q147,Q147,_gBP4BDi---,,young of a cat,kitten,item
+WikiItems/Q148,Q148,_gBP4BDq---,"central bank,instance of,capital,official language,flag,ISO 3166-1 alpha-3,time zone,executive body,Wikivoyage banner,head of state,dmoz,GND identifier,population,GeoNames ID",sovereign state in East Asia,People's Republic of China,item
+WikiItems/Q155,Q155,_gBP4BDy---,"instance of,flag,ISO 3166-1 alpha-3,executive body,time zone,head of state,capital,main regulatory text,follows,GND identifier,Wikivoyage banner,dmoz,official language,population",country in South America,Brazil,item
+WikiItems/Q156,Q156,_gBP4BE----,GND identifier,family of organic chemical compounds,alcohol,item
+WikiItems/Q163,Q163,_gBP4BEG---,"Wikivoyage banner,instance of,category for people who died here",historic county of Northern England,Yorkshire,item
+WikiItems/Q166,Q166,_gBP4BES---,"instance of,GND identifier",sea between Europe and Asia,Black Sea,item
+WikiItems/Q177,Q177,_gBP4BEa---,GND identifier,Italian dish made of oven-baked bread with various toppings,pizza,item
+WikiItems/Q178,Q178,_gBP4BEm---,,type of noodle and is a staple food of traditional Italian cuisine,pasta,item
+WikiItems/Q183,Q183,_gBP4BEu---,"official language,instance of,ISO 3166-1 alpha-3,flag,GND identifier,head of state,capital,Wikivoyage banner,dmoz,time zone",federal republic in central Europe,Germany,item
+WikiItems/Q197,Q197,_gBP4BE2---,GND identifier,powered aircraft capable of flight using fixed wings that generate lift,airplane,item
+WikiItems/Q202,Q202,_gBP4BF----,"instance of,follows",natural number,4,item
+WikiItems/Q207,Q207,_gBP4BFK---,"given name,father,place of birth,GND identifier,MusicBrainz artist ID,position held,instance of,member of political party,BNE identifier,NTA identifier (Netherlands),NLA identifier,CANTIC","American politician, 43rd president of the United States from 2001 to 2009",George W. Bush,item
+WikiItems/Q210,Q210,_gBP4BFS---,"instance of,GND identifier",90° angle (π/2 radians): an angle that bisects the angle formed by two halves of a straight line,right angle,item
+WikiItems/Q216,Q216,_gBP4BFe---,"instance of,is in the administrative territorial entity,time zone,GND identifier,type of administrative territorial entity,Wikivoyage banner,dmoz,category for people who died here",capital of Lithuania,Vilnius,item
+WikiItems/Q217,Q217,_gBP4BFq---,"capital,official language,head of state,instance of,ISO 3166-1 alpha-3,flag,Wikivoyage banner,dmoz,GND identifier,GeoNames ID",country in Europe,Moldova,item
+WikiItems/Q218,Q218,_gBP4BF2---,"capital,official language,head of state,instance of,ISO 3166-1 alpha-3,flag,Wikivoyage banner,dmoz,GND identifier,OmegaWiki Defined Meaning,GeoNames ID",country in Europe,Romania,item
+WikiItems/Q220,Q220,_gBP4BG----,"instance of,is in the administrative territorial entity,GND identifier,type of administrative territorial entity,time zone,ISTAT ID,Wikivoyage banner,dmoz,population,category for people who died here",capital city of Italy,Rome,item
+WikiItems/Q228,Q228,_gBP4BGK---,"instance of,capital,official language,flag,ISO 3166-1 alpha-3,time zone,head of state,Wikivoyage banner,dmoz,OmegaWiki Defined Meaning,GND identifier,GeoNames ID",country in Europe,Andorra,item
+WikiItems/Q233,Q233,_gBP4BGS---,"instance of,head of state,official language,capital,ISO 3166-1 alpha-3,flag,Wikivoyage banner,dmoz,time zone,GND identifier,GeoNames ID",country in Europe,Malta,item
+WikiItems/Q244,Q244,_gBP4BGe---,"head of state,capital,official language,flag,ISO 3166-1 alpha-3,instance of,Wikivoyage banner,dmoz,GND identifier,GeoNames ID",country in the Caribbean,Barbados,item
+WikiItems/Q257,Q257,_gBP4BGm---,instance of,"fractal named after Benoît Mandelbrot, closely related to Julia sets",Mandelbrot set,item
+WikiItems/Q277,Q277,_gBP4BGy---,instance of,distillery that produces single malt Scotch whisky on Islay,Kilchoman,item
+WikiItems/Q278,Q278,_gBP4BG6---,"is in the administrative territorial entity,instance of",Island Single Malt Scotch whisky,Talisker,item
+WikiItems/Q281,Q281,_gBP4BHG---,"instance of,OmegaWiki Defined Meaning,GND identifier",type of distilled alcoholic beverage made from fermented grain mash,whisky,item
+WikiItems/Q284,Q284,_gBP4BHO---,instance of,alcoholic beverage; a variety of brandy,Cognac,item
+WikiItems/Q286,Q286,_gBP4BHa---,GND identifier,durable and flexible material created by the tanning of animal rawhide and skin,leather,item
+WikiItems/Q288,Q288,_gBP4BHi---,"instance of,is in the administrative territorial entity,type of administrative territorial entity,Wikivoyage banner,GND identifier,category for people who died here","commune in Indre-et-Loire, France",Tours,item
+WikiItems/Q291,Q291,_gBP4BHu---,GND identifier,explicit portrayal of sexual acts,pornography,item
+WikiItems/Q293,Q293,_gBP4BH6---,"taxon rank,taxon name,instance of,Encyclopedia of Life ID",genus of spiders,Eurymorion,item
+WikiItems/Q297,Q297,_gBP4BIC---,"place of birth,GND identifier,instance of,given name,CANTIC",Spanish painter who was the leading artist in the court of King Philip IV,Diego Velázquez,item
+WikiItems/Q298,Q298,_gBP4BIK---,"instance of,capital,official language,flag,ISO 3166-1 alpha-3,GND identifier,Wikivoyage banner,dmoz,head of state,GeoNames ID",country in South America,Chile,item
+WikiItems/Q317,Q317,_gBP4BIS---,GND identifier,form of autocratic government led by a single individual,dictatorship,item
+WikiItems/Q323,Q323,_gBP4BIe---,"instance of,point in time,opposite of","theoretical past period when the Universe was much hotter, denser and rapidly expanding",Big Bang,item
+WikiItems/Q326,Q326,_gBP4BIm---,"given name,award received,position held,place of birth,signature,GND identifier,member of political party,instance of",Chilean politician and former President,Eduardo Frei Ruiz-Tagle,item
+WikiItems/Q327,Q327,_gBP4BIy---,"time zone,instance of,Wikivoyage banner",cultural region and former province of France,Brittany,item
+WikiItems/Q328,Q328,_gBP4BI6---,"instance of,language,original language","English language edition of Wikipedia, the free encyclopedia",English Wikipedia,item
+WikiItems/Q332,Q332,_gBP4BJG---,"programmer,GND identifier,instance of",eighth and farthest planet from the sun,Neptune,item
+WikiItems/Q349,Q349,_gBP4BJO---,"Chinese Library Classification,GND identifier,Wikivoyage banner","forms of competitive activity, usually physical",sport,item
+WikiItems/Q359,Q359,_gBP4BJW---,"instance of,GND identifier",international organization which publishes secret information,WikiLeaks,item
+WikiItems/Q362,Q362,_gBP4BJe---,"has immediate cause,GND identifier,instance of,has cause",global war between 1939 and 1945,World War II,item
+WikiItems/Q367,Q367,_gBP4BJq---,instance of,free resource library of books hosted by Wikimedia and edited by volunteers,Wikibooks,item
+WikiItems/Q368,Q368,_gBP4BJy---,"place of birth,GND identifier,cause of death,instance of,position held,CANTIC,BNE identifier,NTA identifier (Netherlands),given name",former president of Chile,Augusto Pinochet,item
+WikiItems/Q369,Q369,_gBP4BK----,"instance of,OmegaWiki Defined Meaning",free collection of quotes hosted by Wikimedia and edited by volunteers,Wikiquote,item
+WikiItems/Q371,Q371,_gBP4BKK---,"MusicBrainz artist ID,instance of,GND identifier","dance-punk band from Sacramento, California",!!!,item
+WikiItems/Q377,Q377,_gBP4BKS---,"place of birth,GND identifier,father,instance of,award received,given name",Belarusian poet and writer,Yanka Kupala,item
+WikiItems/Q391,Q391,_gBP4BKe---,"instance of,is in the administrative territorial entity","the primary commercial artery of downtown Montreal, Canada",Saint Catherine Street,item
+WikiItems/Q394,Q394,_gBP4BKm---,"GND identifier,instance of","scientific, practical and regulatory aspects of measurement",metrology,item
+WikiItems/Q398,Q398,_gBP4BKy---,"instance of,capital,official language,flag,ISO 3166-1 alpha-3,head of state,Wikivoyage banner,GND identifier,dmoz,GeoNames ID",country in Asia,Bahrain,item
+WikiItems/Q403,Q403,_gBP4BK6---,"capital,head of state,official language,instance of,ISO 3166-1 alpha-3,flag,Wikivoyage banner,dmoz,time zone,GND identifier",country in Southeastern Europe,Serbia,item
+WikiItems/Q411,Q411,_gBP4BLG---,"GND identifier,instance of",study of the formation of life on Earth and elsewhere,astrobiology,item
+WikiItems/Q412,Q412,_gBP4BLS---,instance of,"two plaques attached to the Pioneer 10 and Pioneer 11 spacecraft, in case extraterrestrial life finds it",Pioneer plaque,item
+WikiItems/Q414,Q414,_gBP4BLa---,"dmoz,population,capital,instance of,flag,ISO 3166-1 alpha-3,GND identifier,official language,time zone,Wikivoyage banner,GeoNames ID",country in South America,Argentina,item
+WikiItems/Q419,Q419,_gBP4BLi---,"capital,official language,ISO 3166-1 alpha-3,instance of,flag,head of state,time zone,Wikivoyage banner,dmoz,GeoNames ID",country in South America,Peru,item
+WikiItems/Q424,Q424,_gBP4BLu---,"instance of,capital,head of state,official language,flag,ISO 3166-1 alpha-3,Wikivoyage banner,GND identifier,GeoNames ID",country in Southeast Asia,Cambodia,item
+WikiItems/Q429,Q429,_gBP4BL6---,"instance of,is in the administrative territorial entity",Polish village in Lesser Poland Voivodeship,Pcim,item
+WikiItems/Q431,Q431,_gBP4BMC---,,study of the animal kingdom,zoology,item
+WikiItems/Q433,Q433,_gBP4BMO---,"type of administrative territorial entity,is in the administrative territorial entity,instance of",Polish rural gmina in Lublin Voivodeship,Gmina Kurów,item
+WikiItems/Q436,Q436,_gBP4BMW---,"instance of,is in the administrative territorial entity",Polish city in Lublin Voivodeship,Szczebrzeszyn,item
+WikiItems/Q443,Q443,_gBP4BMe---,instance of,speech by John F. Kennedy in West Berlin,Ich bin ein Berliner,item
+WikiItems/Q447,Q447,_gBP4BMm---,"instance of,original language,GND identifier",general encyclopedia published in France between 1751 and 1772,Encyclopédie,item
+WikiItems/Q454,Q454,_gBP4BMy---,"GND identifier,opposite of",state of harmony characterized by lack of violent conflict and freedom from fear of violence,peace,item
+WikiItems/Q463,Q463,_gBP4BN----,"instance of,capital,type of administrative territorial entity,time zone,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz",one of the 27 regions of France,Rhône-Alpes,item
+WikiItems/Q465,Q465,_gBP4BNG---,instance of,DBpedia is a project aiming to extract structured content from the information created as part of the Wikipedia project.,DBpedia,item
+WikiItems/Q475,Q475,_gBP4BNK---,"position held,GND identifier,place of birth,member of political party,instance of,cause of death,given name",president of Chile,Eduardo Frei Montalva,item
+WikiItems/Q481,Q481,_gBP4BNS---,instance of,top-level-domain for the use by pornographic websites,.xxx,item
+WikiItems/Q494,Q494,_gBP4BNa---,"instance of,original network,original language,presenter",educational children's television show,Beakman's World,item
+WikiItems/Q495,Q495,_gBP4BNm---,"is in the administrative territorial entity,type of administrative territorial entity,instance of,ISTAT ID,time zone,Wikivoyage banner,dmoz,GND identifier,population,category for people who died here","capital of the Piedmont, third largest city in Italy",Turin,item
+WikiItems/Q497,Q497,_gBP4BNy---,"Terminologia Anatomica 98,instance of",opening at the opposite end of an animal's digestive tract from its mouth,anus,item
+WikiItems/Q500,Q500,_gBP4BN6---,"instance of,GND identifier,taxon name,taxon rank,Encyclopedia of Life ID",yellow citrus fruit,lemon,item
+WikiItems/Q501,Q501,_gBP4BOG---,"given name,place of burial,place of birth,GND identifier,MusicBrainz artist ID,instance of,NTA identifier (Netherlands),NLA identifier,BNE identifier,signature,CANTIC,cause of death,EGAXA identifier",French poet,Charles Baudelaire,item
+WikiItems/Q506,Q506,_gBP4BOO---,GND identifier,structure found in some plants (division Magnoliophyta / angiosperms) to support reproduction,flower,item
+WikiItems/Q511,Q511,_gBP4BOS---,"is in the administrative territorial entity,instance of,GND identifier,CANTIC,heritage status","art museum in Lyon, France",Museum of Fine Arts of Lyon,item
+WikiItems/Q514,Q514,_gBP4BOe---,GND identifier,branch of biology and medicine that considers the structure of living things,anatomy,item
+WikiItems/Q524,Q524,_gBP4BOm---,"instance of,GND identifier,Wikivoyage banner","stratovolcano in the Gulf of Naples, Italy",Mount Vesuvius,item
+WikiItems/Q530,Q530,_gBP4BOy---,"MusicBrainz artist ID,instance of,place of birth",Swedish alpine skier,Ingemar Stenmark,item
+WikiItems/Q538,Q538,_gBP4BO6---,"GeoNames ID,time zone,Wikivoyage banner,dmoz,instance of,population",continent or geographical region in and near the Pacific Ocean,Oceania,item
+WikiItems/Q544,Q544,_gBP4BPC---,"GND identifier,instance of",planetary system of the Sun,Solar System,item
+WikiItems/Q545,Q545,_gBP4BPG---,"instance of,GND identifier,Wikivoyage banner","the Northern European sea bounded by the Scandinavian Peninsula, the mainland of Europe, and the Danish islands",Baltic Sea,item
+WikiItems/Q550,Q550,_gBP4BPS---,"is in the administrative territorial entity,instance of","avenue in Paris, France",avenue des Champs-Élysées,item
+WikiItems/Q555,Q555,_gBP4BPa---,"place of birth,GND identifier,instance of,given name",American journalist,Rachel Maddow,item
+WikiItems/Q556,Q556,_gBP4BPi---,"instance of,OmegaWiki Defined Meaning,element symbol,GND identifier",chemical element with symbol H and atomic number 1,hydrogen,item
+WikiItems/Q565,Q565,_gBP4BPq---,instance of,"online repository of free-use images, sound and other media files, part of the Wikimedia Foundation",Wikimedia Commons,item
+WikiItems/Q570,Q570,_gBP4BP2---,GND identifier,transducer that converts electrical energy into sound energy,loudspeaker,item
+WikiItems/Q571,Q571,_gBP4BQ----,GND identifier,"medium for a collection of words and/or pictures to represent knowledge, often manifested in bound paper and ink, or in e-books",book,item
+WikiItems/Q584,Q584,_gBP4BQK---,"instance of,is in the administrative territorial entity,GND identifier,Wikivoyage banner,HDS",river in Western Europe,Rhine,item
+WikiItems/Q585,Q585,_gBP4BQS---,"instance of,time zone,type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,population,category for people who died here",capital city and county in Norway,Oslo,item
+WikiItems/Q586,Q586,_gBP4BQa---,"is in the administrative territorial entity,time zone,instance of,Wikivoyage banner,dmoz,GND identifier,HDS,type of administrative territorial entity,category for people who died here","city in Germany, former capital",Bonn,item
+WikiItems/Q587,Q587,_gBP4BQq---,"instance of,GND identifier",a solemnity (1 November in Western Christianity),All Saints,item
+WikiItems/Q592,Q592,_gBP4BQy---,"instance of,OmegaWiki Defined Meaning",term that primarily refers to a homosexual person lamar bowden,gay,item
+WikiItems/Q595,Q595,_gBP4BQ6---,"instance of,original language,MusicBrainz release group ID,GND identifier,title (string)",2011 French film directed by Olivier Nakache and Éric Toledano,The Intouchables,item
+WikiItems/Q597,Q597,_gBP4BRC---,"instance of,flag,GND identifier,type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,dmoz,time zone,category for people who died here",capital city of Portugal,Lisbon,item
+WikiItems/Q604,Q604,_gBP4BRK---,"discovery date,instance of",dwarf planet in the Solar System,Makemake,item
+WikiItems/Q606,Q606,_gBP4BRS---,"taxon rank,instance of,taxon name,Encyclopedia of Life ID",non-venomous dwarf boa species,Exiliboa placata,item
+WikiItems/Q610,Q610,_gBP4BRe---,"instance of,is in the administrative territorial entity,Wikivoyage banner",island off the west coast of Scotland,Iona,item
+WikiItems/Q616,Q616,_gBP4BRq---,,wine from the Beaujolais AOC of France,Beaujolais wine,item
+WikiItems/Q619,Q619,_gBP4BRy---,"signature,GND identifier,instance of,place of birth,BNE identifier,NLA identifier,NTA identifier (Netherlands),programmer,CANTIC,given name","Renaissance mathematician, astronomer, physician and canon",Nicolaus Copernicus,item
+WikiItems/Q633,Q633,_gBP4BS----,"given name,father,MusicBrainz artist ID,GND identifier,instance of,place of birth,award received",Canadian singer-songwriter,Neil Young,item
+WikiItems/Q634,Q634,_gBP4BSG---,GND identifier,celestial body orbiting a star or stellar remnant,planet,item
+WikiItems/Q635,Q635,_gBP4BSO---,"father,GND identifier,cause of death,noble family,instance of,follows,place of birth,given name",last pharaoh of  Ancient Egypt,Cleopatra,item
+WikiItems/Q643,Q643,_gBP4BSW---,"instance of,is in the administrative territorial entity",Italian river,Po,item
+WikiItems/Q647,Q647,_gBP4BSe---,"GND identifier,is in the administrative territorial entity,type of administrative territorial entity,Wikivoyage banner,instance of,dmoz,list of monuments,heritage status","commune in Ille-et-Vilaine, France",Rennes,item
+WikiItems/Q648,Q648,_gBP4BSq---,"category for people who died here,type of administrative territorial entity,is in the administrative territorial entity,time zone,instance of,award received,Wikivoyage banner,dmoz,GND identifier","commune in Nord, France",Lille,item
+WikiItems/Q656,Q656,_gBP4BSy---,"list of monuments,OKTMO identifier,instance of,flag,executive body,is in the administrative territorial entity,type of administrative territorial entity,time zone,Wikivoyage banner,dmoz,population,category for people who died here,GeoNames ID",federal city in Russia and the former capital,Saint Petersburg,item
+WikiItems/Q659,Q659,_gBP4BT----,"opposite of,instance of",one of the four cardinal directions,north,item
+WikiItems/Q661,Q661,_gBP4BTG---,,cyclic water pump powered by hydropower,hydraulic ram,item
+WikiItems/Q666,Q666,_gBP4BTO---,instance of,Christian theological concept,number of the beast,item
+WikiItems/Q676,Q676,_gBP4BTW---,GND identifier,form of language which applies ordinary grammatical structure and natural flow of speech,prose,item
+WikiItems/Q683,Q683,_gBP4BTe---,"time zone,official language,ISO 3166-1 alpha-3,flag,instance of,capital,Wikivoyage banner,dmoz,GeoNames ID",country in Oceania,Samoa,item
+WikiItems/Q684,Q684,_gBP4BTq---,"instance of,opposite of",one of the four cardinal directions,east,item
+WikiItems/Q685,Q685,_gBP4BTy---,"head of state,ISO 3166-1 alpha-3,flag,capital,instance of,official language,time zone,Wikivoyage banner,dmoz,GND identifier,Human Development Index,GeoNames ID",country in Oceania,Solomon Islands,item
+WikiItems/Q686,Q686,_gBP4BU----,"ISO 3166-1 alpha-3,flag,capital,instance of,official language,time zone,Wikivoyage banner,GND identifier,dmoz,GeoNames ID",country in Oceania,Vanuatu,item
+WikiItems/Q688,Q688,_gBP4BUG---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",element with the atomic number of 17,chlorine,item
+WikiItems/Q694,Q694,_gBP4BUS---,"list of monuments,type of administrative territorial entity,capital,time zone,flag,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,instance of,category for people who died here",province of the Netherlands,South Holland,item
+WikiItems/Q700,Q700,_gBP4BUa---,"instance of,MusicBrainz artist ID",a fictional character from the Muppets,Swedish Chef,item
+WikiItems/Q701,Q701,_gBP4BUi---,"GeoNames ID,population,instance of,type of administrative territorial entity,list of monuments,flag,time zone,GND identifier,capital,Wikivoyage banner,dmoz,category for people who died here",province of the Netherlands,North Holland,item
+WikiItems/Q716,Q716,_gBP4BUq---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",element with the atomic number of 22,titanium,item
+WikiItems/Q722,Q722,_gBP4BUy---,"CAS registry number,OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",chemical element with the atomic number of 23,vanadium,item
+WikiItems/Q723,Q723,_gBP4BU2---,"instance of,original language",Canadian police drama television series,Rookie Blue,item
+WikiItems/Q726,Q726,_gBP4BVC---,"taxon rank,instance of,taxon name","subspecies of Equus ferus, or the wild horse",horse,item
+WikiItems/Q732,Q732,_gBP4BVK---,instance of,Portuguese sandwich made in state-of-the-art,Francesinha,item
+WikiItems/Q735,Q735,_gBP4BVS---,"OmegaWiki Defined Meaning,GND identifier",process of creating things of no intrinsic value but significant extrinsic value through emotional or aesthetic appeal,art,item
+WikiItems/Q737,Q737,_gBP4BVe---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",chemical element with the atomic number of 75,rhenium,item
+WikiItems/Q744,Q744,_gBP4BVi---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",chemical element with the atomic number of 28,nickel,item
+WikiItems/Q746,Q746,_gBP4BVu---,instance of,a grilled sandwich,Croque-madame,item
+WikiItems/Q747,Q747,_gBP4BV6---,"place of burial,place of birth,GND identifier,MusicBrainz artist ID,instance of,given name,CANTIC",French tragedian,Pierre Corneille,item
+WikiItems/Q749,Q749,_gBP4BWC---,"instance of,is in the administrative territorial entity,Wikivoyage banner,BAG-code for Dutch towns","capital city of the province of Groningen, the Netherlands",Groningen,item
+WikiItems/Q751,Q751,_gBP4BWK---,"OmegaWiki Defined Meaning,element symbol,GND identifier,discovery date,instance of",chemical element with the atomic number of 76,osmium,item
+WikiItems/Q757,Q757,_gBP4BWW---,"time zone,instance of,head of state,capital,official language,ISO 3166-1 alpha-3,flag,Wikivoyage banner,dmoz,GeoNames ID",country in the Caribbean,Saint Vincent and the Grenadines,item
+WikiItems/Q763,Q763,_gBP4BWe---,"instance of,head of state,capital,official language,is in the administrative territorial entity,ISO 3166-1 alpha-3,flag,Wikivoyage banner,dmoz,GeoNames ID",country in North America,Saint Kitts and Nevis,item
+WikiItems/Q764,Q764,_gBP4BWm---,"MycoBank taxon name identifier,taxon rank,taxon name,instance of,Code of nomenclature,Encyclopedia of Life ID",kingdom of organisms,fungi,item
+WikiItems/Q770,Q770,_gBP4BWu---,"capital,time zone,type of administrative territorial entity,is in the administrative territorial entity,official language,Wikivoyage banner,GND identifier,dmoz,instance of",province of the Netherlands,Friesland,item
+WikiItems/Q771,Q771,_gBP4BW2---,"capital,official language,flag,type of administrative territorial entity,time zone,is in the administrative territorial entity,Wikivoyage banner,dmoz,instance of,category for people who died here",state of the United States of America,Massachusetts,item
+WikiItems/Q772,Q772,_gBP4BX----,"capital,time zone,type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,instance of",province of the Netherlands,Drenthe,item
+WikiItems/Q776,Q776,_gBP4BXK---,"capital,time zone,flag,type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,instance of,category for people who died here",province of the Netherlands,Utrecht,item
+WikiItems/Q777,Q777,_gBP4BXS---,"instance of,version,developer",web browser developed by Google,Google Chrome,item
+WikiItems/Q795,Q795,_gBP4BXe---,,state of lacking intelligence,stupidity,item
+WikiItems/Q801,Q801,_gBP4BXm---,"instance of,capital,official language,head of state,executive body,ISO 3166-1 alpha-3,flag,GND identifier,time zone,Wikivoyage banner,dmoz,Human Development Index,population,category for people who died here,GeoNames ID",country in Western Asia,Israel,item
+WikiItems/Q807,Q807,_gBP4BXy---,"instance of,type of administrative territorial entity,is in the administrative territorial entity,population,time zone,official language,Wikivoyage banner,GND identifier,dmoz,HDS,category for people who died here",capital city of the Swiss Canton of Vaud,Lausanne,item
+WikiItems/Q815,Q815,_gBP4BX2---,"signature,GND identifier,place of birth,member of political party,instance of,position held,given name",Chilean politician,Gabriel Gonzáles Videla,item
+WikiItems/Q816,Q816,_gBP4BYC---,"capital,official language,flag,type of administrative territorial entity,time zone,GND identifier,is in the administrative territorial entity,Wikivoyage banner,dmoz,instance of",state in the United States of America,Arizona,item
+WikiItems/Q819,Q819,_gBP4BYG---,"OmegaWiki Defined Meaning,instance of,capital,head of state,official language,ISO 3166-1 alpha-3,flag,Wikivoyage banner,GND identifier,GeoNames ID",country in Asia,Laos,item
+WikiItems/Q826,Q826,_gBP4BYO---,"official language,capital,ISO 3166-1 alpha-3,instance of,flag,Wikivoyage banner,GND identifier,dmoz,southernmost point,GeoNames ID",country in Asia,Maldives,item
+WikiItems/Q844,Q844,_gBP4BYW---,"GND identifier,original language,instance of",series about a fictional British spy,James Bond,item
+WikiItems/Q847,Q847,_gBP4BYi---,GND identifier,sport in which individuals or teams attempt to ground the ball on the opponent's side of the net,tennis,item
+WikiItems/Q849,Q849,_gBP4BYq---,"place of birth,GND identifier,MusicBrainz artist ID,instance of,NTA identifier (Netherlands),NLA identifier,BNE identifier,CANTIC,given name",Mediæval French poet,François Villon,item
+WikiItems/Q853,Q853,_gBP4BY2---,"GND identifier,cause of death,place of burial,father,instance of,place of birth,NTA identifier (Netherlands),BNE identifier,NLA identifier,given name","Soviet and Russian film-maker, writer, film editor, film theorist, theatre and opera director",Andrei Tarkovsky,item
+WikiItems/Q856,Q856,_gBP4BZ----,,an optical machine-readable representation of data,barcode,item
+WikiItems/Q859,Q859,_gBP4BZK---,"student of,GND identifier,MusicBrainz artist ID,father,place of birth,instance of,CANTIC,Sandrart.net person ID",Classical Greek philosopher,Plato,item
+WikiItems/Q861,Q861,_gBP4BZS---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",chemical element with atomic number of 31,gallium,item
+WikiItems/Q863,Q863,_gBP4BZe---,"GND identifier,OmegaWiki Defined Meaning,capital,head of state,official language,ISO 3166-1 alpha-3,flag,instance of,Wikivoyage banner,dmoz,GeoNames ID",country in central Asia,Tajikistan,item
+WikiItems/Q866,Q866,_gBP4BZm---,"instance of,chief executive officer,GND identifier",video-sharing service,YouTube,item
+WikiItems/Q869,Q869,_gBP4BZq---,"OmegaWiki Defined Meaning,capital,official language,instance of,head of state,ISO 3166-1 alpha-3,flag,Wikivoyage banner,dmoz,GND identifier,population,GeoNames ID",country in Asia,Thailand,item
+WikiItems/Q870,Q870,_gBP4BZ2---,,one or more self-propelled vehicles that move along fixed rails to transport passengers or cargo,train,item
+WikiItems/Q873,Q873,_gBP4BaC---,"award received,GND identifier,MusicBrainz artist ID,place of birth,instance of,CANTIC",American actress,Meryl Streep,item
+WikiItems/Q876,Q876,_gBP4BaO---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",chemical element with atomic number of 34,selenium,item
+WikiItems/Q878,Q878,_gBP4BaW---,"capital,official language,head of state,ISO 3166-1 alpha-3,instance of,time zone,flag,Wikivoyage banner,GND identifier,dmoz,GeoNames ID",country in Asia,United Arab Emirates,item
+WikiItems/Q880,Q880,_gBP4Bai---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",chemical element with the atomic number of 78,platinum,item
+WikiItems/Q883,Q883,_gBP4Baq---,"instance of,time zone,is in the administrative territorial entity,Wikivoyage banner,OKTMO identifier,category for people who died here",Russian city,Novosibirsk,item
+WikiItems/Q887,Q887,_gBP4Ba2---,"list of monuments,instance of,time zone,Wikivoyage banner,OKTMO identifier,flag,is in the administrative territorial entity,category for people who died here",Russian city,Yekaterinburg,item
+WikiItems/Q891,Q891,_gBP4Bb----,"list of monuments,instance of,time zone,flag,Wikivoyage banner,GND identifier,dmoz,OKTMO identifier,category for people who died here,GeoNames ID",Russian city,Nizhny Novgorod,item
+WikiItems/Q894,Q894,_gBP4BbK---,"Wikivoyage banner,population,instance of,flag,is in the administrative territorial entity,GND identifier,time zone,OKTMO identifier,category for people who died here,GeoNames ID",Russian city,Samara,item
+WikiItems/Q895,Q895,_gBP4BbS---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",chemical element with the atomic number of 37,rubidium,item
+WikiItems/Q898,Q898,_gBP4Bba---,"instance of,is in the administrative territorial entity,Wikivoyage banner,OKTMO identifier,flag,category for people who died here",city in Russia,Omsk,item
+WikiItems/Q899,Q899,_gBP4Bbi---,"instance of,GND identifier",canal in Egypt between the Mediterranean Sea and the Red Sea,Suez Canal,item
+WikiItems/Q901,Q901,_gBP4Bbq---,"OmegaWiki Defined Meaning,GND identifier,instance of",someone who uses the scientific method professionally,scientist,item
+WikiItems/Q903,Q903,_gBP4Bb2---,"instance of,GeoNames ID",volcano in Ethiopia,Erta Ale,item
+WikiItems/Q905,Q905,_gBP4BcC---,"ISFDB author ID,place of burial,employer,father,GND identifier,MusicBrainz artist ID,place of birth,cause of death,instance of,NTA identifier (Netherlands),BNE identifier,signature,given name,CANTIC,NLA identifier",Austrian author,Franz Kafka,item
+WikiItems/Q907,Q907,_gBP4BcK---,"instance of,present in work",fictional protagonist of the Half Life series of video games,Gordon Freeman,item
+WikiItems/Q909,Q909,_gBP4BcS---,"place of burial,GND identifier,MusicBrainz artist ID,place of birth,instance of,NLA identifier,BNE identifier,father,award received,signature,CANTIC,cause of death,EGAXA identifier,NTA identifier (Netherlands),employer,given name","Argentinian author, one of the founders of postmodernism",Jorge Luis Borges,item
+WikiItems/Q910,Q910,_gBP4Bce---,instance of,Wikipedia disambiguation page,Top Gear,item
+WikiItems/Q912,Q912,_gBP4Bcq---,"capital,instance of,official language,head of state,ISO 3166-1 alpha-3,flag,Wikivoyage banner,GND identifier,dmoz,HDS,GeoNames ID",country in Africa,Mali,item
+WikiItems/Q916,Q916,_gBP4Bcu---,"instance of,head of state,capital,official language,flag,ISO 3166-1 alpha-3,GND identifier,Wikivoyage banner,time zone,dmoz,GeoNames ID",country in Africa,Angola,item
+WikiItems/Q917,Q917,_gBP4Bc6---,"instance of,capital,head of state,official language,flag,ISO 3166-1 alpha-3,main regulatory text,time zone,Wikivoyage banner,dmoz,GeoNames ID",country in Asia,Bhutan,item
+WikiItems/Q920,Q920,_gBP4BdC---,"GND identifier,instance of,award received,place of birth",Dutch writer,Bernlef,item
+WikiItems/Q922,Q922,_gBP4BdO---,"population,instance of,is in the administrative territorial entity,Wikivoyage banner",Croatian island,Brač,item
+WikiItems/Q926,Q926,_gBP4Bda---,"Notable Names Database identifier,GND identifier,place of birth,instance of,BNE identifier,NLA identifier,CANTIC,NTA identifier (Netherlands)","Norwegian polar researcher, who was the first to reach the South Pole",Roald Amundsen,item
+WikiItems/Q937,Q937,_gBP4Bdm---,"place of birth,father,signature,award received,GND identifier,MusicBrainz artist ID,instance of,NLA identifier,NTA identifier (Netherlands),student of,BNE identifier,given name,CANTIC,EGAXA identifier,dmoz,NSK identifier",German-American physicist and founder of the theory of relativity,Albert Einstein,item
+WikiItems/Q943,Q943,_gBP4Bdu---,GND identifier,color,yellow,item
+WikiItems/Q946,Q946,_gBP4Bdy---,"programmer,father,position held,signature,GND identifier,member of political party,instance of,place of birth",polish politician,Donald Tusk,item
+WikiItems/Q950,Q950,_gBP4Bd6---,"instance of,is in the administrative territorial entity,GND identifier","museum of Christian religious Mediæval art in Cologne, Germany",Schnütgen Museum,item
+WikiItems/Q951,Q951,_gBP4BeG---,,orientation along its horizontal axle parallel to the wall a roll of toilet paper is placed,toilet paper orientation,item
+WikiItems/Q952,Q952,_gBP4BeS---,"type of administrative territorial entity,is in the administrative territorial entity,time zone,ISTAT ID,instance of,population",town in the Italian province of Reggio Emilia,Reggiolo,item
+WikiItems/Q957,Q957,_gBP4Bea---,instance of,list of lists of Wikipedia lists,list of lists of lists,item
+WikiItems/Q961,Q961,_gBP4Bei---,instance of,Polish television series,Stawka większa niż życie,item
+WikiItems/Q966,Q966,_gBP4Beq---,instance of,recurring supporting character from the Polish television series More Than Life at Stake,Hermann Brunner,item
+WikiItems/Q968,Q968,_gBP4Bey---,"is in the administrative territorial entity,type of administrative territorial entity,GND identifier,instance of",German city in North Rhine-West Phalia,Warburg,item
+WikiItems/Q969,Q969,_gBP4Be6---,"is in the administrative territorial entity,instance of,BAG-code for Dutch towns",Dutch town in the province of North Holland,Abbekerk,item
+WikiItems/Q973,Q973,_gBP4BfG---,"instance of,GND identifier","A river in Russia, the second longest river in Asia",Ob,item
+WikiItems/Q977,Q977,_gBP4BfS---,"capital,instance of,head of state,official language,flag,ISO 3166-1 alpha-3,Wikivoyage banner,dmoz,time zone,GeoNames ID",country in Africa,Djibouti,item
+WikiItems/Q978,Q978,_gBP4Bfa---,,"thought or idea that can be shared, in analogy to a gene",meme,item
+WikiItems/Q982,Q982,_gBP4Bfi---,instance of,international alpine skiing competition,FIS Alpine Ski World Cup,item
+WikiItems/Q990,Q990,_gBP4Bfu---,"instance of,original network",Polish television series,Czterej pancerni i pies,item
+WikiItems/Q997,Q997,_gBP4Bf2---,"award received,GND identifier,place of birth,instance of,CANTIC,academic degree",Soviet physicist and Nobel Prize for Peace laureate,Andrei Sakharov,item
+WikiItems/Q1009,Q1009,_gBP4Bg----,"instance of,capital,head of state,official language,flag,ISO 3166-1 alpha-3,time zone,Wikivoyage banner,GND identifier,dmoz,GeoNames ID",country in Africa,Cameroon,item
+WikiItems/Q1014,Q1014,_gBP4BgK---,"capital,official language,instance of,head of state,ISO 3166-1 alpha-3,flag,Wikivoyage banner,GND identifier,dmoz,GeoNames ID",country in Africa,Liberia,item
+WikiItems/Q1015,Q1015,_gBP4BgW---,"time zone,dmoz,instance of",city in South-West Slovenia,Koper,item
+WikiItems/Q1025,Q1025,_gBP4Bgi---,"capital,instance of,official language,head of state,ISO 3166-1 alpha-3,flag,time zone,Wikivoyage banner,dmoz,HDS,GeoNames ID",country in Africa,Mauritania,item
+WikiItems/Q1026,Q1026,_gBP4Bgq---,instance of,people from Poland,Poles,item
+WikiItems/Q1029,Q1029,_gBP4Bgy---,"instance of,capital,official language,head of state,ISO 3166-1 alpha-3,flag,Wikivoyage banner,dmoz,GeoNames ID",country in Africa,Mozambique,item
+WikiItems/Q1044,Q1044,_gBP4Bg6---,"capital,official language,instance of,head of state,ISO 3166-1 alpha-3,flag,Wikivoyage banner,dmoz,GeoNames ID",country in Africa,Sierra Leone,item
+WikiItems/Q1045,Q1045,_gBP4BhG---,"instance of,capital,official language,head of state,ISO 3166-1 alpha-3,GND identifier,flag,time zone,Wikivoyage banner,dmoz,GeoNames ID",country in Africa,Somalia,item
+WikiItems/Q1049,Q1049,_gBP4BhS---,"capital,official language,instance of,head of state,ISO 3166-1 alpha-3,flag,Wikivoyage banner,dmoz,GeoNames ID",country in Africa,Sudan,item
+WikiItems/Q1052,Q1052,_gBP4Bha---,,optical phenomenon,rainbow,item
+WikiItems/Q1056,Q1056,_gBP4Bhm---,"GND identifier,place of birth,instance of,member of political party,award received",Italian Marshal of the Air Force and minister,Italo Balbo,item
+WikiItems/Q1057,Q1057,_gBP4Bhu---,GND identifier,biological process,metabolism,item
+WikiItems/Q1058,Q1058,_gBP4Bh6---,"signature,programmer,member of political party,GND identifier,instance of,position held",Prime Minister of India,Narendra Modi,item
+WikiItems/Q1066,Q1066,_gBP4BiC---,"instance of,lake inflows,is in the administrative territorial entity,GND identifier","biggest of the Great Lakes of North America, the biggest freshwater lake on the Earth",Lake Superior,item
+WikiItems/Q1071,Q1071,_gBP4BiO---,GND identifier,"study of the lands, features, inhabitants, and phenomena of the Earth and other beings",geography,item
+WikiItems/Q1080,Q1080,_gBP4Bia---,instance of,music project,sing for your life,item
+WikiItems/Q1083,Q1083,_gBP4Bii---,"type of administrative territorial entity,is in the administrative territorial entity,time zone,ISTAT ID,Wikivoyage banner,instance of,population,category for people who died here",Italian city in the province of Campania,Salerno,item
+WikiItems/Q1088,Q1088,_gBP4Biu---,GND identifier,one of the three additive primary colors located between violet and green on the optical spectrum,blue,item
+WikiItems/Q1092,Q1092,_gBP4Bi2---,"describes the fictional universe,instance of,GND identifier",science fiction franchise,Star Trek,item
+WikiItems/Q1093,Q1093,_gBP4BjC---,"capital,time zone,type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,dmoz,instance of,GND identifier",province of the Netherlands,Limburg,item
+WikiItems/Q1098,Q1098,_gBP4BjK---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of","radioactive, metallic element with the atomic number 92",uranium,item
+WikiItems/Q1099,Q1099,_gBP4BjS---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",element with the atomic number of 51,antimony,item
+WikiItems/Q1100,Q1100,_gBP4Bje---,"OmegaWiki Defined Meaning,element symbol,GND identifier,discovery date,discovery place,instance of",chemical element with the atomic number of 52,tellurium,item
+WikiItems/Q1107,Q1107,_gBP4Bjm---,instance of,animation produced in Japan,anime,item
+WikiItems/Q1108,Q1108,_gBP4Bjy---,"OmegaWiki Defined Meaning,element symbol,GND identifier,discovery date,discovery place,instance of",chemical element with the atomic number of 55,caesium,item
+WikiItems/Q1115,Q1115,_gBP4Bj6---,"OmegaWiki Defined Meaning,element symbol,discovery date,GND identifier,instance of",chemical element with the atomic number of 90,Thorium,item
+WikiItems/Q1121,Q1121,_gBP4BkG---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",chemical element with the atomic number of 89,actinium,item
+WikiItems/Q1124,Q1124,_gBP4BkO---,"position held,father,place of birth,GND identifier,MusicBrainz artist ID,instance of,member of political party,employer,NLA identifier,BNE identifier,NTA identifier (Netherlands),CANTIC,EGAXA identifier,award received,given name","American politician, 42nd president of the United States (in office from 1993 to 2001)",Bill Clinton,item
+WikiItems/Q1136,Q1136,_gBP4Bka---,"instance of,developer",social news website,reddit,item
+WikiItems/Q1141,Q1141,_gBP4Bki---,"instance of,is in the administrative territorial entity",quarter of the Germany city of Hamburg,Dulsberg,item
+WikiItems/Q1146,Q1146,_gBP4Bku---,"element symbol,instance of",hypothetical element with the atomic number of 120,unbinilium,item
+WikiItems/Q1149,Q1149,_gBP4Bk2---,"place of birth,award received,father,GND identifier,manner of death,member of political party,instance of,position held,BNE identifier,NTA identifier (Netherlands),NLA identifier,cause of death,CANTIC,Oxford Biography Index Number",Indian politician and Prime Minister,Indira Gandhi,item
+WikiItems/Q1151,Q1151,_gBP4Bl----,"place of birth,place of burial,GND identifier,MusicBrainz artist ID,instance of,NLA identifier,CANTIC,Oxford Biography Index Number,given name",French Romantic composer,Hector Berlioz,item
+WikiItems/Q1152,Q1152,_gBP4BlG---,"Wikivoyage banner,capital,type of administrative territorial entity,GND identifier,time zone,is in the administrative territorial entity,dmoz,instance of,category for people who died here",administrative region of France,Auvergne,item
+WikiItems/Q1156,Q1156,_gBP4BlS---,"category for people who died here,instance of,is in the administrative territorial entity,time zone,Wikivoyage banner,GND identifier,dmoz","capital and district of Maharashtra, India",Mumbai,item
+WikiItems/Q1161,Q1161,_gBP4Bla---,instance of,Wikimedia disambiguation page,Limburg,item
+WikiItems/Q1171,Q1171,_gBP4Blm---,"capital,is in the administrative territorial entity,type of administrative territorial entity,Wikivoyage banner,GND identifier,instance of,category for people who died here",state on the western coast of India,Goa,item
+WikiItems/Q1172,Q1172,_gBP4Blu---,instance of,quarter of the German city of Hamburg,Groß Borstel,item
+WikiItems/Q1173,Q1173,_gBP4Bl6---,"capital,type of administrative territorial entity,time zone,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,instance of,HDS",region of France,Burgundy,item
+WikiItems/Q1181,Q1181,_gBP4BmC---,instance of,quarter of the German city of Hamburg,Hoheluft,item
+WikiItems/Q1183,Q1183,_gBP4BmK---,"type of administrative territorial entity,official language,ISO 3166-1 alpha-3,flag,capital,is in the administrative territorial entity,Wikivoyage banner,dmoz,instance of",unincorporated territory of the United States,Puerto Rico,item
+WikiItems/Q1193,Q1193,_gBP4BmW---,"is in the administrative territorial entity,type of administrative territorial entity,Wikivoyage banner,GND identifier,instance of",Indian state,Manipur,item
+WikiItems/Q1201,Q1201,_gBP4Bmi---,"type of administrative territorial entity,flag,capital,time zone,is in the administrative territorial entity,GND identifier,dmoz,Wikivoyage banner,instance of,category for people who died here",state of Germany,Saarland,item
+WikiItems/Q1204,Q1204,_gBP4Bmq---,"capital,official language,type of administrative territorial entity,time zone,flag,is in the administrative territorial entity,Wikivoyage banner,dmoz,instance of,category for people who died here",state of the United States of America,Illinois,item
+WikiItems/Q1213,Q1213,_gBP4Bmy---,instance of,Italian dialect from Salento,Salentino,item
+WikiItems/Q1216,Q1216,_gBP4Bn----,"capital,type of administrative territorial entity,instance of,is in the administrative territorial entity,time zone,GND identifier,Wikivoyage banner,dmoz,category for people who died here",a region in North-West Italy,Piedmont,item
+WikiItems/Q1224,Q1224,_gBP4BnG---,"place of birth,GND identifier,award received,position held,member of political party,instance of,NTA identifier (Netherlands),given name",10th President of the Italian Republic,Carlo Azeglio Ciampi,item
+WikiItems/Q1228,Q1228,_gBP4BnO---,"award received,GND identifier,place of birth,member of political party,instance of,given name",9° President of the Italian Republic.,Oscar Luigi Scalfaro,item
+WikiItems/Q1229,Q1229,_gBP4BnW---,"instance of,GND identifier,GeoNames ID",Russian river,Don,item
+WikiItems/Q1232,Q1232,_gBP4Bni---,"OmegaWiki Defined Meaning,element symbol,GND identifier,instance of",chemical element with the atomic number of 105,dubnium,item
+WikiItems/Q1235,Q1235,_gBP4Bnq---,"position held,GND identifier,place of birth,member of political party,instance of,given name",6° President of the Italian Republic.,Giovanni Leone,item
+WikiItems/Q1247,Q1247,_gBP4Bn2---,"instance of,GND identifier","a sea of the Atlantic Ocean bounded by North, Central, and South America",Caribbean Sea,item
+WikiItems/Q1251,Q1251,_gBP4Bo----,instance of,a mountain range in the South-Western part of the Alps,Cottian Alps,item
+WikiItems/Q1253,Q1253,_gBP4BoG---,"GND identifier,position held,instance of,place of birth",8th Secretary-General of the United Nations,Ban Ki-moon,item
+WikiItems/Q1254,Q1254,_gBP4BoS---,"award received,place of birth,GND identifier,MusicBrainz artist ID,position held,BNE identifier,NLA identifier,instance of,CANTIC,NTA identifier (Netherlands)",7th Secretary-General of the United Nations,Kofi Annan,item
+WikiItems/Q1256,Q1256,_gBP4Boa---,"capital,instance of,type of administrative territorial entity,is in the administrative territorial entity,time zone,GND identifier,Wikivoyage banner,dmoz,category for people who died here",Italian region,Liguria,item
+WikiItems/Q1257,Q1257,_gBP4Bom---,"position held,GND identifier,instance of,place of birth,member of political party,EGAXA identifier,BNE identifier,NLA identifier,NTA identifier (Netherlands)",6th Secretary-General of the United Nations,Boutros Boutros-Ghali,item
+WikiItems/Q1258,Q1258,_gBP4Bou---,"OmegaWiki Defined Meaning,element symbol,discovery date,discovery place,GND identifier,instance of",chemical element with the atomic number of 109,meitnerium,item
+WikiItems/Q1267,Q1267,_gBP4Bo6---,"MusicBrainz artist ID,GND identifier,place of birth,instance of,position held,award received,NLA identifier,NTA identifier (Netherlands),CANTIC,EGAXA identifier","Swedish diplomat, economist, and author",Dag Hammarskjöld,item
+WikiItems/Q1269,Q1269,_gBP4BpG---,GND identifier,"preparations of fruits, vegetables and sugar, often canned or sealed for long-term storage",fruit preserves,item
+WikiItems/Q1270,Q1270,_gBP4BpO---,"is in the administrative territorial entity,instance of",mountain range in the Western part of the Alps,Pennine Alps,item
+WikiItems/Q1276,Q1276,_gBP4Bpa---,"place of birth,award received,GND identifier,MusicBrainz artist ID,instance of,CANTIC,given name",Canadian poet and singer-songwriter,Leonard Cohen,item
+WikiItems/Q1277,Q1277,_gBP4Bpi---,"instance of,is in the administrative territorial entity,GND identifier",a mountain range in the Central-Eastern Alps,Rhaetian Alps,item
+WikiItems/Q1281,Q1281,_gBP4Bpu---,"instance of,category's main topic",top-level category of a Wikimedia project,Category:Contents,item
+WikiItems/Q1283,Q1283,_gBP4Bp2---,"instance of,GND identifier",a mountain range in the Alps,Dolomites,item
+WikiItems/Q1284,Q1284,_gBP4BqC---,"instance of,capital,type of administrative territorial entity,is in the administrative territorial entity,time zone,Wikivoyage banner,GND identifier,category for people who died here",a region in Italy,Abruzzo,item
+WikiItems/Q1293,Q1293,_gBP4BqK---,instance of,board game,draughts,item
+WikiItems/Q1297,Q1297,_gBP4BqS---,"instance of,is in the administrative territorial entity,flag,time zone,Wikivoyage banner,dmoz,GND identifier,category for people who died here","city in Illinois, United States of America",Chicago,item
+WikiItems/Q1301,Q1301,_gBP4Bqe---,"OmegaWiki Defined Meaning,element symbol,instance of",element with the atomic number of 113,ununtrium,item
+WikiItems/Q1317,Q1317,_gBP4Bqm---,"place of birth,GND identifier,father,instance of,cause of death,manner of death",founder and leader of terrorist group al-Qaeda,Osama bin Laden,item
+WikiItems/Q1319,Q1319,_gBP4Bqy---,"place of birth,member of political party,instance of,given name,position held",Chilean politician and President,Federico Errázuriz Echaurren,item
+WikiItems/Q1320,Q1320,_gBP4Bq6---,"signature,place of birth,instance of,given name","Chilean sailor, politician and President",Jorge Montt,item
+WikiItems/Q1325,Q1325,_gBP4BrG---,"father,GND identifier,place of birth,instance of,award received,CANTIC,employer,Oxford Biography Index Number,given name",British economist and Nobel Prize for Economics laureate,Friedrich Hayek,item
+WikiItems/Q1330,Q1330,_gBP4BrO---,"signature,GND identifier,place of birth,member of political party,instance of,given name",Chilean politician and President,José Joaquín Prieto,item
+WikiItems/Q1339,Q1339,_gBP4BrW---,"instance of,place of birth,place of burial,manner of death,cause of death,father,signature,GND identifier,MusicBrainz artist ID,BNE identifier,employer,NLA identifier,NTA identifier (Netherlands),CANTIC,dmoz,given name","German composer, organist, harpsichordist, violist and violinist",Johann Sebastian Bach,item
+WikiItems/Q1341,Q1341,_gBP4Bri---,"Wikivoyage banner,instance of,official language,is in the administrative territorial entity,time zone,OKTMO identifier,located next to body of water,category for people who died here,GeoNames ID",Russian city,Tolyatti,item
+WikiItems/Q1348,Q1348,_gBP4Brq---,"is in the administrative territorial entity,instance of,time zone,Wikivoyage banner,dmoz,category for people who died here",Indian city,Kolkata,item
+WikiItems/Q1358,Q1358,_gBP4Br2---,"taxon rank,instance of,taxon name,Encyclopedia of Life ID",class of arthropods,Arachnida,item
+WikiItems/Q1359,Q1359,_gBP4BsC---,"taxon rank,instance of,taxon name,Encyclopedia of Life ID",subphylum of Arthropoda,Chelicerata,item
+WikiItems/Q1363,Q1363,_gBP4BsK---,"capital,is in the administrative territorial entity,type of administrative territorial entity,GND identifier,instance of",Indian state,Tripura,item
+WikiItems/Q1372,Q1372,_gBP4BsO---,instance of,a mountain in the Graian Alps located between the Aosta Valley and Piedmont regions of north-west Italy,Gran Paradiso,item
+WikiItems/Q1374,Q1374,_gBP4BsW---,"instance of,is in the administrative territorial entity,GND identifier,HDS",a mountain in the Pennine Alps on the border between Switzerland and Italy,Matterhorn,item
+WikiItems/Q1375,Q1375,_gBP4Bsi---,instance of,a fantasy role-playing board game,Dungeons & Dragons,item
+WikiItems/Q1376,Q1376,_gBP4Bsq---,"instance of,is in the administrative territorial entity,heritage status",museum of antiquities in Toulouse,Musée Saint-Raymond,item
+WikiItems/Q1381,Q1381,_gBP4Bs2---,"instance of,place of birth",American game designer,Dave Arneson,item
+WikiItems/Q1396,Q1396,_gBP4Bt----,"OmegaWiki Defined Meaning,element symbol,GND identifier,discovery date,instance of",chemical element with the atomic number of 63,europium,item
+WikiItems/Q1397,Q1397,_gBP4BtK---,"capital,official language,type of administrative territorial entity,flag,time zone,is in the administrative territorial entity,Wikivoyage banner,dmoz,instance of,GND identifier,category for people who died here",state of the United States of America,Ohio,item
+WikiItems/Q1398,Q1398,_gBP4BtS---,"GND identifier,MusicBrainz artist ID,instance of,place of birth,CANTIC,Sandrart.net person ID",Ancient Roman poet of the Augustan period,Virgil,item
+WikiItems/Q1404,Q1404,_gBP4Bta---,"type of administrative territorial entity,instance of,GND identifier",German city in Schleswig-Holstein,Uetersen,item
+WikiItems/Q1405,Q1405,_gBP4Btm---,"father,position held,GND identifier,instance of,place of birth,noble family,CANTIC,Sandrart.net person ID,BNE identifier,NLA identifier,NTA identifier (Netherlands)",founder and first emperor of the Roman Empire,Augustus,item
+WikiItems/Q1416,Q1416,_gBP4Bty---,"position held,place of birth,GND identifier,cause of death,instance of,noble family,Sandrart.net person ID,given name",Emperor of Ancient Rome,Otho,item
+WikiItems/Q1421,Q1421,_gBP4Bt6---,"father,position held,place of birth,GND identifier,instance of,noble family",Emperor of Ancient Rome,Titus,item
+WikiItems/Q1427,Q1427,_gBP4BuG---,"father,GND identifier,instance of,noble family,place of birth,Sandrart.net person ID,Oxford Biography Index Number",Emperor of Ancient Rome,Hadrian,item
+WikiItems/Q1431,Q1431,_gBP4BuO---,instance of,a Free Software community,KDE,item
+WikiItems/Q1441,Q1441,_gBP4BuW---,instance of,treaty transferring territory between the United States and Soviet occupation zones of Germany after World War II,Wanfried agreement,item
+WikiItems/Q1446,Q1446,_gBP4Bui---,"father,position held,place of birth,GND identifier,instance of,noble family,Sandrart.net person ID",Emperor of Ancient Rome,Caracalla,item
+WikiItems/Q1448,Q1448,_gBP4Buq---,instance of,derogatory term in the United States for people who live in rural areas,hillbilly,item
+WikiItems/Q1452,Q1452,_gBP4Buy---,"capital,type of administrative territorial entity,is in the administrative territorial entity,instance of,time zone,Wikivoyage banner,GND identifier,dmoz,category for people who died here",region of Italy,Basilicata,item
+WikiItems/Q1455,Q1455,_gBP4Bv----,instance of,team sport version of hockey played on grass or turf with a round ball,field hockey,item
+WikiItems/Q1459,Q1459,_gBP4BvG---,"taxon rank,taxon name,instance of,Encyclopedia of Life ID",species of hedgehog native to Central Asia and the Middle East,long-eared hedgehog,item
+WikiItems/Q1463,Q1463,_gBP4BvS---,"given name,place of birth,GND identifier,instance of,signature,position held,cause of death,award received",Philippine politician and President,Ferdinand Marcos,item
+WikiItems/Q1464,Q1464,_gBP4Bva---,"place of birth,position held,signature,father,member of political party,instance of","The 15th President of the Philippines, serving from 2010",Benigno Simeon Cojuangco Aquino III,item
+WikiItems/Q1468,Q1468,_gBP4Bvi---,"is in the administrative territorial entity,instance of,type of administrative territorial entity,GND identifier","seat of Werra-Meißner-Kreis and town in Hesse, Germany",Eschwege,item
+WikiItems/Q1469,Q1469,_gBP4Bvq---,"instance of,Wikivoyage banner,GND identifier,is in the administrative territorial entity",longest river in France,Loire,item
+WikiItems/Q1471,Q1471,_gBP4Bv2---,"instance of,is in the administrative territorial entity,GND identifier",river in France,Seine,item
+WikiItems/Q1477,Q1477,_gBP4Bw----,"instance of,MedlinePlus ID,DiseasesDB,eMedicine",a form of inflammatory bowel disease,ulcerative colitis,item
+WikiItems/Q1486,Q1486,_gBP4BwK---,"instance of,flag,GND identifier,time zone,is in the administrative territorial entity,Wikivoyage banner,dmoz,category for people who died here",capital city of Argentina,Buenos Aires,item
+WikiItems/Q1487,Q1487,_gBP4BwS---,instance of,computing term with a variety of meanings,hacker,item
+WikiItems/Q1488,Q1488,_gBP4Bwe---,"place of burial,GND identifier,place of birth,instance of,cause of death,given name,CANTIC",French author and journalist,Robert Brasillach,item
+WikiItems/Q1489,Q1489,_gBP4Bwm---,"instance of,GND identifier,time zone,is in the administrative territorial entity,Wikivoyage banner,dmoz,type of administrative territorial entity,category for people who died here",capital city of Mexico,Mexico City,item
+WikiItems/Q1490,Q1490,_gBP4Bwy---,"instance of,type of administrative territorial entity,population,time zone,dmoz,GND identifier,Wikivoyage banner,category for people who died here","capital of Japan with 13 million inhabitants, and one of 47 prefectures of Japan",Tokyo,item
+WikiItems/Q1494,Q1494,_gBP4Bx----,"capital,official language,flag,type of administrative territorial entity,time zone,is in the administrative territorial entity,dmoz,instance of,Wikivoyage banner,category for people who died here",state of the United States of America,Mississippi,item
+WikiItems/Q1499,Q1499,_gBP4BxG---,"Wikivoyage banner,is in the administrative territorial entity,type of administrative territorial entity,GND identifier,instance of",Indian state,Uttarakhand,item
+WikiItems/Q1500,Q1500,_gBP4BxO---,"NLA identifier,place of birth,GND identifier,cause of death,instance of,CANTIC,NTA identifier (Netherlands),BNE identifier,given name",national hero of the Philippines,José Rizal,item
+WikiItems/Q1503,Q1503,_gBP4Bxa---,"GND identifier,place of birth,cause of death,member of political party,instance of,position held,signature,NLA identifier,NTA identifier (Netherlands),given name",President of the Philippines from 1935 to 1944,Manuel Quezon,item
+WikiItems/Q1504,Q1504,_gBP4Bxi---,"type of administrative territorial entity,time zone,is in the administrative territorial entity,instance of",commune in France,Cublize,item
+WikiItems/Q1506,Q1506,_gBP4Bxq---,"is in the administrative territorial entity,instance of","a public square located in the centre of Lyon, France",place des Terreaux,item
+WikiItems/Q1511,Q1511,_gBP4Bx2---,"signature,GND identifier,MusicBrainz artist ID,cause of death,instance of,place of birth,BNE identifier,NLA identifier,NTA identifier (Netherlands),HDS,CANTIC,EGAXA identifier,dmoz,given name","German composer, conductor",Richard Wagner,item
+WikiItems/Q1513,Q1513,_gBP4By----,"is in the administrative territorial entity,instance of","city in Maharashtra, India",Nagpur,item
+WikiItems/Q1520,Q1520,_gBP4ByK---,"GND identifier,instance of,is in the administrative territorial entity,Wikivoyage banner,dmoz,time zone,category for people who died here",capital of Kazakhstan,Astana,item
+WikiItems/Q1521,Q1521,_gBP4ByS---,"is in the administrative territorial entity,instance of,heritage status","Roman Catholic cathedral in Lyon, France, and the seat of the Archbishop of Lyon",Cathédrale Saint Jean-Baptiste,item
+WikiItems/Q1522,Q1522,_gBP4Bye---,"capital,official language,type of administrative territorial entity,flag,time zone,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,instance of,category for people who died here",state of the United States of America,New Mexico,item
+WikiItems/Q1525,Q1525,_gBP4Bym---,,traffic intersection,roundabout,item
+WikiItems/Q1526,Q1526,_gBP4Byu---,"place of burial,instance of",the founding Pharaoh of Ancient Egypt's Nineteenth Dynasty,Ramesses I,item
+WikiItems/Q1528,Q1528,_gBP4By6---,"father,position held,place of burial,GND identifier,instance of,EGAXA identifier",the second Pharaoh of the Twentieth Dynasty of Ancient Egypt,Ramesses III,item
+WikiItems/Q1530,Q1530,_gBP4BzC---,"Wikivoyage banner,instance of,time zone,GND identifier,GeoNames ID",capital of Iraq,Baghdad,item
+WikiItems/Q1533,Q1533,_gBP4BzK---,"GND identifier,instance of,type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,dmoz",capital and largest city of Venezuela,Caracas,item
+WikiItems/Q1537,Q1537,_gBP4BzW---,"official language,capital,type of administrative territorial entity,time zone,flag,is in the administrative territorial entity,Wikivoyage banner,dmoz,instance of,category for people who died here",state of the United States of America,Wisconsin,item
+WikiItems/Q1547,Q1547,_gBP4Bze---,"is in the administrative territorial entity,instance of","an international airport in Lyon, France",Lyon-Saint Exupéry Airport,item
+WikiItems/Q1555,Q1555,_gBP4Bzm---,"instance of,is in the administrative territorial entity,Wikivoyage banner,dmoz,time zone",capital and largest city of the Republic of Guatemala,Guatemala City,item
+WikiItems/Q1562,Q1562,_gBP4Bzu---,"is in the administrative territorial entity,instance of","quarter of Hamburg, Germany",Finkenwerder,item
+WikiItems/Q1564,Q1564,_gBP4Bz2---,"is in the administrative territorial entity,instance of","district in Hamburg, Germany",Borgfelde,item
+WikiItems/Q1565,Q1565,_gBP4B0C---,"is in the administrative territorial entity,instance of","quarter in Hamburg-Mitte, Hamburg, Germany",Billstedt,item
+WikiItems/Q1569,Q1569,_gBP4B0K---,"is in the administrative territorial entity,instance of","district in Hamburg, Germany",Hamm,item
+WikiItems/Q1574,Q1574,_gBP4B0W---,"developer,instance of,version",antivirus computer program,avast!,item
+WikiItems/Q1583,Q1583,_gBP4B0i---,"is in the administrative territorial entity,instance of","quarter in Hamburg-Mitte, Hamburg, Germany",Veddel,item
+WikiItems/Q1591,Q1591,_gBP4B0q---,"instance of,is in the administrative territorial entity","one of 14 quarters  in the district of Altona, Hamburg, Germany",Altona-Altstadt,item
+WikiItems/Q1596,Q1596,_gBP4B0y---,"is in the administrative territorial entity,type of administrative territorial entity,instance of,GND identifier","quarter in Hamburg, Germany",Rissen,item
+WikiItems/Q1599,Q1599,_gBP4B1----,"is in the administrative territorial entity,type of administrative territorial entity,GND identifier,instance of",Indian state,Nagaland,item
+WikiItems/Q1607,Q1607,_gBP4B1K---,"is in the administrative territorial entity,instance of","quarter in Altona, Hamburg, Germany",Blankenese,item
+WikiItems/Q1609,Q1609,_gBP4B1S---,instance of,"quarter in Hamburg, Germany",Eidelstedt,item
+WikiItems/Q1611,Q1611,_gBP4B1a---,"instance of,is in the administrative territorial entity","a quarter in the Eimsbüttel borough of Hamburg, Germany",Eimsbüttel,item
+WikiItems/Q1616,Q1616,_gBP4B1m---,"is in the administrative territorial entity,type of administrative territorial entity,instance of","quarter in Hamburg, Germany",Niendorf,item
+WikiItems/Q1623,Q1623,_gBP4B1q---,"is in the administrative territorial entity,instance of,type of administrative territorial entity,population,time zone","city in Metro Manila, Philippines",Valenzuela,item
+WikiItems/Q1624,Q1624,_gBP4B1y---,"is in the administrative territorial entity,instance of,population,time zone","city in Metro Manila, Philippines",Pasig,item
+WikiItems/Q1627,Q1627,_gBP4B2----,"is in the administrative territorial entity,type of administrative territorial entity,instance of","borough of Hamburg, Germany",Hamburg-Nord,item
+WikiItems/Q1636,Q1636,_gBP4B2G---,"Wikivoyage banner,is in the administrative territorial entity,type of administrative territorial entity,instance of,time zone",city in the Philippines,Antipolo,item
+WikiItems/Q1638,Q1638,_gBP4B2S---,"GND identifier,place of birth,award received,instance of,position held,cause of death",Italian sports official and IAAF president,Primo Nebiolo,item
+WikiItems/Q1641,Q1641,_gBP4B2a---,"type of administrative territorial entity,is in the administrative territorial entity,instance of","quarter of Hamburg, Germany",Bergstedt,item
+WikiItems/Q1644,Q1644,_gBP4B2m---,"instance of,is in the administrative territorial entity,GND identifier",major river in Central Europe,Elbe,item
+WikiItems/Q1646,Q1646,_gBP4B2u---,"GND identifier,instance of,place of birth,given name",French author (1935-2004),Françoise Sagan,item
+WikiItems/Q1649,Q1649,_gBP4B26---,"capital,official language,type of administrative territorial entity,flag,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,instance of,category for people who died here",state of the United States of America,Oklahoma,item
+WikiItems/Q1672,Q1672,_gBP4B3C---,"instance of,IAAF ID,place of birth",Ethiopian long-distance runner,Dejen Gebremeskel,item
+WikiItems/Q1673,Q1673,_gBP4B3O---,instance of,right tributary of Rhine river in Germany,Neckar,item
+WikiItems/Q1681,Q1681,_gBP4B3W---,"instance of,IAAF ID,given name",Kenyan long-distance runner,Abel Mutai,item
+WikiItems/Q1688,Q1688,_gBP4B3i---,"instance of,is in the administrative territorial entity",river in northern Germany,Elde,item
+WikiItems/Q1691,Q1691,_gBP4B3m---,"instance of,place of birth,IAAF ID,given name",Puerto Rican hurdler,Javier Culson,item
+WikiItems/Q1693,Q1693,_gBP4B3u---,"instance of,GND identifier",sea in Europe,North Sea,item
+WikiItems/Q1706,Q1706,_gBP4B36---,"is in the administrative territorial entity,type of administrative territorial entity,instance of,time zone","city in the province of Albay, Philippines",Tabaco,item
+WikiItems/Q1707,Q1707,_gBP4B4C---,"time zone,instance of,is in the administrative territorial entity,Wikivoyage banner,type of administrative territorial entity,dmoz,GND identifier",city in Germany,Kiel,item
+WikiItems/Q1709,Q1709,_gBP4B4O---,"is in the administrative territorial entity,time zone,type of administrative territorial entity,Wikivoyage banner,GND identifier,instance of,dmoz,category for people who died here",capital city of the German state of Mecklenburg-Vorpommern,Schwerin,item
+WikiItems/Q1710,Q1710,_gBP4B4W---,"is in the administrative territorial entity,type of administrative territorial entity,instance of,time zone,population","city in the province of Basilan, Philippines",Isabela City,item
+WikiItems/Q1711,Q1711,_gBP4B4i---,"time zone,is in the administrative territorial entity,instance of,type of administrative territorial entity,Wikivoyage banner,dmoz,GND identifier,population,category for people who died here",capital city of the German state of Brandenburg,Potsdam,item
+WikiItems/Q1712,Q1712,_gBP4B4q---,"instance of,IAAF ID,place of birth",Guatemalan racewalker,Erick Barrondo,item
+WikiItems/Q1718,Q1718,_gBP4B42---,"is in the administrative territorial entity,GND identifier,type of administrative territorial entity,time zone,instance of,Wikivoyage banner,dmoz,category for people who died here",capital city of the German state of North Rhine-Westphalia,Düsseldorf,item
+WikiItems/Q1719,Q1719,_gBP4B5----,"is in the administrative territorial entity,type of administrative territorial entity,instance of",city in the Philippines,Balanga,item
+WikiItems/Q1721,Q1721,_gBP4B5G---,"is in the administrative territorial entity,instance of,time zone,type of administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,category for people who died here",capital of the German state of Hesse,Wiesbaden,item
+WikiItems/Q1724,Q1724,_gBP4B5S---,"Wikivoyage banner,is in the administrative territorial entity,instance of,time zone,type of administrative territorial entity,dmoz,GND identifier,category for people who died here",capital of the German state of Saarland,Saarbrücken,item
+WikiItems/Q1738,Q1738,_gBP4B5a---,"instance of,place of birth,IAAF ID,given name",British high jumper,Robert Grabarz,item
+WikiItems/Q1746,Q1746,_gBP4B5m---,"type of administrative territorial entity,is in the administrative territorial entity,instance of",administrative unit of the Russian Empire,Samara Governorate,item
+WikiItems/Q1747,Q1747,_gBP4B5u---,"given name,instance of,place of birth,IAAF ID",Australian track and field athlete,Mitchell Watt,item
+WikiItems/Q1748,Q1748,_gBP4B52---,"instance of,is in the administrative territorial entity,time zone,Wikivoyage banner,GND identifier,population,category for people who died here",capital city of Denmark,Copenhagen,item
+WikiItems/Q1749,Q1749,_gBP4B6----,"list of monuments,instance of,flag,capital,exclave of,type of administrative territorial entity,time zone,is in the administrative territorial entity,Wikivoyage banner,dmoz,category for people who died here,GeoNames ID",administrative division in Russia,Kaliningrad Oblast,item
+WikiItems/Q1753,Q1753,_gBP4B6K---,"instance of,place of birth,IAAF ID,given name",Italian triple jumper and long jumper,Fabrizio Donato,item
+WikiItems/Q1755,Q1755,_gBP4B6S---,"instance of,IAAF ID,place of birth,award received,given name",Polish shot putter,Tomasz Majewski,item
+WikiItems/Q1757,Q1757,_gBP4B6e---,"instance of,is in the administrative territorial entity,time zone,Wikivoyage banner,type of administrative territorial entity,dmoz,population,GND identifier,category for people who died here",capital city of Finland,Helsinki,item
+WikiItems/Q1759,Q1759,_gBP4B6m---,"flag,capital,type of administrative territorial entity,time zone,is in the administrative territorial entity,Wikivoyage banner,instance of,GeoNames ID",federal subject of Russia,Murmansk Oblast,item
+WikiItems/Q1764,Q1764,_gBP4B6y---,"GND identifier,instance of,is in the administrative territorial entity,Wikivoyage banner,dmoz,time zone,category for people who died here",capital and largest city in Iceland,Reykjavík,item
+WikiItems/Q1789,Q1789,_gBP4B66---,"instance of,IAAF ID,place of birth",American decathlete,Ashton Eaton,item
+WikiItems/Q1795,Q1795,_gBP4B7C---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",regency in North Sumatra,Asahan Regency,item
+WikiItems/Q1802,Q1802,_gBP4B7O---,"place of birth,MusicBrainz artist ID,GND identifier,instance of,cause of death,given name",French singer-songwriter,Daniel Balavoine,item
+WikiItems/Q1804,Q1804,_gBP4B7W---,"place of birth,place of burial,award received,MusicBrainz artist ID,GND identifier,instance of,given name",French singer,Barbara,item
+WikiItems/Q1807,Q1807,_gBP4B7e---,"is in the administrative territorial entity,instance of","quarter in Hamburg, Germany",Eilbek,item
+WikiItems/Q1810,Q1810,_gBP4B7q---,"type of administrative territorial entity,is in the administrative territorial entity,instance of","quarter in Hamburg, Germany",Hummelsbüttel,item
+WikiItems/Q1812,Q1812,_gBP4B72---,"position held,place of birth,GND identifier,instance of,Sandrart.net person ID",Roman emperor,Gordian III,item
+WikiItems/Q1814,Q1814,_gBP4B8----,"is in the administrative territorial entity,instance of","quarter in Hamburg, Germany",Jenfeld,item
+WikiItems/Q1815,Q1815,_gBP4B8K---,"is in the administrative territorial entity,instance of","quarter in Hamburg, Germany",Lemsahl-Mellingstedt,item
+WikiItems/Q1817,Q1817,_gBP4B8S---,"position held,GND identifier,instance of,place of birth,given name",Roman Emperor,Philip the Arab,item
+WikiItems/Q1818,Q1818,_gBP4B8e---,"is in the administrative territorial entity,type of administrative territorial entity,instance of","a quarter in the borough Wandsbek of Hamburg, Germany",Poppenbüttel,item
+WikiItems/Q1820,Q1820,_gBP4B8m---,"type of administrative territorial entity,is in the administrative territorial entity,instance of","quarter in Hamburg, Germany",Rahlstedt,item
+WikiItems/Q1821,Q1821,_gBP4B8y---,"is in the administrative territorial entity,type of administrative territorial entity,instance of","quarter in Hamburg, Germany",Sasel,item
+WikiItems/Q1826,Q1826,_gBP4B9----,"instance of,is in the administrative territorial entity,Wikivoyage banner,population","city in the province of Bohol, Philippines",Tagbilaran,item
+WikiItems/Q1832,Q1832,_gBP4B9G---,"OmegaWiki Defined Meaning,element symbol,GND identifier,discovery date,instance of",element with the atomic number of 64,gadolinium,item
+WikiItems/Q1834,Q1834,_gBP4B9S---,"instance of,original network",manga series,Death Note,item
+WikiItems/Q1835,Q1835,_gBP4B9a---,"place of birth,member of sports team,GND identifier,award received,MusicBrainz artist ID,instance of",retired French footballer,Zinedine Zidane,item
+WikiItems/Q1837,Q1837,_gBP4B9m---,"type of administrative territorial entity,is in the administrative territorial entity,instance of","quarter in Hamburg, Germany",Wohldorf-Ohlstedt,item
+WikiItems/Q1839,Q1839,_gBP4B9u---,"place of birth,member of sports team,award received,MusicBrainz artist ID,instance of,given name",French association football manager,Laurent Blanc,item
+WikiItems/Q1842,Q1842,_gBP4B92---,"is in the administrative territorial entity,type of administrative territorial entity,instance of,Wikivoyage banner,time zone",capital city of the country Luxembourg,Luxembourg,item
+WikiItems/Q1851,Q1851,_gBP4C-C---,"Wikivoyage banner,is in the administrative territorial entity,instance of,GND identifier,OKTMO identifier,category for people who died here,GeoNames ID",city in the northwest of Russia,Arkhangelsk,item
+WikiItems/Q1859,Q1859,_gBP4C-O---,instance of,"non-denominational Christian church founded in Beijing, China",True Jesus Church,item
+WikiItems/Q1860,Q1860,_gBP4C-W---,"ISO 639-3 code,instance of,GND identifier,IETF language tag",West Germanic language originating in England,English,item
+WikiItems/Q1866,Q1866,_gBP4C-i---,"capital,type of administrative territorial entity,is in the administrative territorial entity,instance of",province of Indonesia,Bangka–Belitung Islands,item
+WikiItems/Q1868,Q1868,_gBP4C-q---,"place of burial,father,place of birth,GND identifier,given name,instance of",Belgian author and visionary,Paul Otlet,item
+WikiItems/Q1871,Q1871,_gBP4C-2---,instance of,strategic board game,Diplomacy,item
+WikiItems/Q1878,Q1878,_gBP4C_----,"place of birth,GND identifier,instance of,given name,employer","German author, philosopher, and public relations manager",Michael Schmidt-Salomon,item
+WikiItems/Q1885,Q1885,_gBP4C_K---,"instance of,place of birth,given name",Dutch footballer,Jürgen Locadia,item
+WikiItems/Q1890,Q1890,_gBP4C_W---,"capital,type of administrative territorial entity,is in the administrative territorial entity,instance of",province of Indonesia,Bengkulu Province,item
+WikiItems/Q1896,Q1896,_gBP4C_e---,"OmegaWiki Defined Meaning,element symbol,GND identifier,discovery date,instance of",chemical element with the atomic number of 100,fermium,item
+WikiItems/Q1901,Q1901,_gBP4C_q---,"OmegaWiki Defined Meaning,element symbol,discovery date,GND identifier,instance of",chemical element with the atomic number of 102,nobelium,item
+WikiItems/Q1911,Q1911,_gBP4C_2---,"place of birth,instance of,member of sports team,given name",French association football player,Olivier Giroud,item
+WikiItems/Q1914,Q1914,_gBP4CA----,"list of monuments,Wikivoyage banner,OmegaWiki Defined Meaning,capital,official language,flag,type of administrative territorial entity,time zone,is in the administrative territorial entity,instance of,category for people who died here,GeoNames ID","federal subject of Russia, republic of Russia",Republic of Karelia,item
+WikiItems/Q1918,Q1918,_gBP4CAK---,"member of sports team,award received,place of birth,MusicBrainz artist ID,GND identifier,instance of,given name",French association football player,Franck Ribéry,item
+WikiItems/Q1925,Q1925,_gBP4CAS---,"place of birth,instance of,given name",French association football player,Yann M'Vila,item
+WikiItems/Q1928,Q1928,_gBP4CAe---,"place of birth,member of sports team,instance of",French association football player,Hatem Ben Arfa,item
+WikiItems/Q1934,Q1934,_gBP4CAm---,"place of birth,member of sports team,instance of",French footballer (b.1979),Sidney Govou,item
+WikiItems/Q1936,Q1936,_gBP4CAq---,"place of birth,member of sports team,instance of",French association football player,Djibril Cissé,item
+WikiItems/Q1938,Q1938,_gBP4CA6---,"member of sports team,place of birth,instance of",French association football player,Bacary Sagna,item
+WikiItems/Q1939,Q1939,_gBP4CBC---,"member of sports team,place of birth,instance of,given name",French association football player,Nicolas Anelka,item
+WikiItems/Q1940,Q1940,_gBP4CBO---,"member of sports team,place of birth,instance of",French football player,André-Pierre Gignac,item
+WikiItems/Q1946,Q1946,_gBP4CBa---,instance of,moons of the planet Jupiter,moon of Jupiter,item
+WikiItems/Q1948,Q1948,_gBP4CBm---,"capital,flag,time zone,type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,instance of,category for people who died here",province of Canada,Manitoba,item
+WikiItems/Q1956,Q1956,_gBP4CBu---,"GND identifier,instance of,place of birth,award received,given name",Austrian alpine skier,Hermann Maier,item
+WikiItems/Q1962,Q1962,_gBP4CB6---,"place of birth,GND identifier,instance of,given name,award received",Swiss alpine ski racer,Erika Hess,item
+WikiItems/Q1971,Q1971,_gBP4CCC---,instance of,John Lennon song,Imagine,item
+WikiItems/Q1972,Q1972,_gBP4CCO---,instance of,moons of the planet Saturn,moon of Saturn,item
+WikiItems/Q1976,Q1976,_gBP4CCa---,"type of administrative territorial entity,time zone,is in the administrative territorial entity,instance of",a commune in France,Givors,item
+WikiItems/Q1977,Q1977,_gBP4CCm---,"type of administrative territorial entity,time zone,is in the administrative territorial entity,instance of",a commune in France,Rivolet,item
+WikiItems/Q1987,Q1987,_gBP4CCu---,"instance of,follows,point in time",year,2002,item
+WikiItems/Q1990,Q1990,_gBP4CC2---,"instance of,follows,point in time",year,2012,item
+WikiItems/Q1996,Q1996,_gBP4CDC---,"instance of,follows,point in time",year,2009,item
+WikiItems/Q2003,Q2003,_gBP4CDK---,"capital,flag,type of administrative territorial entity,is in the administrative territorial entity,time zone,Wikivoyage banner,dmoz,instance of,GND identifier,category for people who died here,demonym",province of Canada,Newfoundland and Labrador,item
+WikiItems/Q2006,Q2006,_gBP4CDS---,"instance of,place of birth",Italian Alpine skier,Deborah Compagnoni,item
+WikiItems/Q2008,Q2008,_gBP4CDe---,"is in the administrative territorial entity,instance of,UIC station code","railway station in Lyon, France",Gare de Lyon-Part-Dieu,item
+WikiItems/Q2009,Q2009,_gBP4CDm---,"capital,time zone,type of administrative territorial entity,flag,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,instance of",territory of Canada,Yukon,item
+WikiItems/Q2011,Q2011,_gBP4CDu---,"instance of,is in the administrative territorial entity,UIC station code","railway station in Lyon, France",Gare de Lyon-Vaise,item
+WikiItems/Q2013,Q2013,_gBP4CD6---,instance of,free knowledge database project hosted by Wikimedia and edited by volunteers,Wikidata,item
+WikiItems/Q2016,Q2016,_gBP4CEC---,"is in the administrative territorial entity,instance of,UIC station code","railway station in Lyon, France",Gare de Lyon-Saint-Paul,item
+WikiItems/Q2017,Q2017,_gBP4CEO---,instance of,collaborative wiki travel website,Wikitravel,item
+WikiItems/Q2019,Q2019,_gBP4CEW---,"instance of,follows,point in time",year,2005,item
+WikiItems/Q2025,Q2025,_gBP4CEe---,"instance of,PubChem ID (CID),CAS registry number,KEGG ID,ChemSpider ID","colorless, odorless, and tasteless gas",carbon monoxide,item
+WikiItems/Q2026,Q2026,_gBP4CEq---,"type of administrative territorial entity,is in the administrative territorial entity,time zone,instance of",commune in France,Chambost-Allières,item
+WikiItems/Q2029,Q2029,_gBP4CEy---,"is in the administrative territorial entity,instance of","history of the city of Lyon, France",history of Lyon,item
+WikiItems/Q2032,Q2032,_gBP4CF----,"type of administrative territorial entity,is in the administrative territorial entity,capital,instance of",one of three districts of the Grand Duchy of Luxembourg,Luxembourg District,item
+WikiItems/Q2036,Q2036,_gBP4CFK---,instance of,regional rail network in France,TER Rhône-Alpes,item
+WikiItems/Q2041,Q2041,_gBP4CFS---,instance of,"list of major bridges in Lyon, France",bridges of Lyon,item
+WikiItems/Q2048,Q2048,_gBP4CFe---,"instance of,follows,point in time",common year starting on Tuesday,1907,item
+WikiItems/Q2049,Q2049,_gBP4CFm---,"instance of,follows,point in time",common year starting on Monday,1906,item
+WikiItems/Q2052,Q2052,_gBP4CFu---,"instance of,league",professional Italian football club,ACF Fiorentina,item
+WikiItems/Q2057,Q2057,_gBP4CF6---,"instance of,follows,point in time",common year starting on Friday,1909,item
+WikiItems/Q2059,Q2059,_gBP4CGC---,"is in the administrative territorial entity,instance of,UIC station code","railway station Lyon, France",Gare de Lyon-Gorge-de-Loup,item
+WikiItems/Q2060,Q2060,_gBP4CGK---,"instance of,follows,point in time",year,1992,item
+WikiItems/Q2062,Q2062,_gBP4CGS---,"instance of,follows,point in time",year,1991,item
+WikiItems/Q2063,Q2063,_gBP4CGa---,instance of,text-based open standard designed for human-readable data interchange,JavaScript Object Notation,item
+WikiItems/Q2065,Q2065,_gBP4CGm---,"instance of,follows,point in time",year,1993,item
+WikiItems/Q2070,Q2070,_gBP4CGu---,"instance of,follows,point in time",year,1996,item
+WikiItems/Q2073,Q2073,_gBP4CG2---,"OmegaWiki Defined Meaning,capital,official language,flag,type of administrative territorial entity,time zone,is in the administrative territorial entity,instance of,Wikivoyage banner,GeoNames ID","federal subject of Russia, republic of Russia",Komi Republic,item
+WikiItems/Q2074,Q2074,_gBP4CHC---,"instance of,league",professional Italian football and cricket club,Genoa Cricket and Football Club,item
+WikiItems/Q2077,Q2077,_gBP4CHK---,"instance of,follows,point in time",year,1912,item
+WikiItems/Q2079,Q2079,_gBP4CHW---,"instance of,is in the administrative territorial entity,time zone,Wikivoyage banner,GND identifier,type of administrative territorial entity,dmoz,category for people who died here","city in Saxony, Germany",Leipzig,item
+WikiItems/Q2080,Q2080,_gBP4CHi---,"instance of,follows,point in time",year,1913,item
+WikiItems/Q2081,Q2081,_gBP4CHu---,"is in the administrative territorial entity,type of administrative territorial entity,time zone,ISTAT ID,dmoz,instance of,population",Italian comune,Roseto degli Abruzzi,item
+WikiItems/Q2091,Q2091,_gBP4CH2---,"instance of,follows,point in time",a year,1999,item
+WikiItems/Q2096,Q2096,_gBP4CI----,"is in the administrative territorial entity,Wikivoyage banner,instance of,dmoz,population",capital city of Alberta,Edmonton,item
+WikiItems/Q2100,Q2100,_gBP4CIK---,"instance of,is in the administrative territorial entity,type of administrative territorial entity,time zone,Wikivoyage banner,GND identifier,dmoz,category for people who died here",city in Germany,Duisburg,item
+WikiItems/Q2104,Q2104,_gBP4CIW---,"cause of death,place of birth,instance of,Oxford Biography Index Number,given name",British racecar driver,Mike Hawthorn,item
+WikiItems/Q2105,Q2105,_gBP4CIa---,"father,place of birth,member of political party,GND identifier,award received,position held,instance of,signature,given name",22nd President of the French Republic,Jacques Chirac,item
+WikiItems/Q2109,Q2109,_gBP4CIm---,"is in the administrative territorial entity,type of administrative territorial entity,instance of,GND identifier",administrative division in Chile,Arica y Parinacota Region,item
+WikiItems/Q2110,Q2110,_gBP4CIu---,"capital,type of administrative territorial entity,is in the administrative territorial entity,instance of",province of Indonesia,Lampung,item
+WikiItems/Q2114,Q2114,_gBP4CI6---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",administrative division in Chile,Tarapacá Region,item
+WikiItems/Q2119,Q2119,_gBP4CJG---,"instance of,type of administrative territorial entity,is in the administrative territorial entity,time zone,dmoz,Wikivoyage banner,GND identifier","The City of Mannheim in Baden-Württemberg, Germany.",Mannheim,item
+WikiItems/Q2125,Q2125,_gBP4CJO---,"place of birth,GND identifier,instance of,NLA identifier,award received,given name",Australian Formula One champion,Jack Brabham,item
+WikiItems/Q2129,Q2129,_gBP4CJa---,"GND identifier,instance of,place of birth,award received",American alpine ski racer,Bode Miller,item
+WikiItems/Q2131,Q2131,_gBP4CJi---,"time zone,is in the administrative territorial entity,type of administrative territorial entity,instance of",administrative division of Chile,Santiago Metropolitan Region,item
+WikiItems/Q2132,Q2132,_gBP4CJu---,"GND identifier,is in the administrative territorial entity,instance of,Wikivoyage banner,dmoz",capital of British Columbia,Victoria,item
+WikiItems/Q2134,Q2134,_gBP4CJ2---,instance of,Internet slang,LOL,item
+WikiItems/Q2137,Q2137,_gBP4CKC---,"is in the administrative territorial entity,instance of,OKTMO identifier,flag,time zone,type of administrative territorial entity,GeoNames ID","town in Vologda Oblast, Russia",Totma,item
+WikiItems/Q2142,Q2142,_gBP4CKK---,"instance of,MusicBrainz artist ID,father",fictional character and the protagonist of the Dragon Ball manga series,Goku,item
+WikiItems/Q2148,Q2148,_gBP4CKS---,,main body of the executive branch of government in the Soviet Union,Government of the Soviet Union,item
+WikiItems/Q2149,Q2149,_gBP4CKe---,instance of,Wikipedia disambiguation page,XXX,item
+WikiItems/Q2151,Q2151,_gBP4CKm---,"topic's main template,follows,instance of",date,January 2,item
+WikiItems/Q2153,Q2153,_gBP4CKu---,"GND identifier,place of birth,instance of,member of political party,NLA identifier,NTA identifier (Netherlands),Oxford Biography Index Number",Indian nationalist leader,Subhas Chandra Bose,item
+WikiItems/Q2154,Q2154,_gBP4CK6---,instance of,Identifier for a time offset from UTC of −11,UTC−11:00,item
+WikiItems/Q2165,Q2165,_gBP4CLC---,"instance of,follows,point in time",year,1922,item
+WikiItems/Q2173,Q2173,_gBP4CLK---,"instance of,follows,point in time",year,1924,item
+WikiItems/Q2174,Q2174,_gBP4CLW---,"instance of,OKTMO identifier,flag,GeoNames ID",city in the north of Russia,Naryan-Mar,item
+WikiItems/Q2175,Q2175,_gBP4CLe---,"capital,type of administrative territorial entity,is in the administrative territorial entity,instance of",province of Indonesia,Riau,item
+WikiItems/Q2185,Q2185,_gBP4CLm---,"follows,GND identifier,award received,place of burial,member of political party,cause of death,place of birth,instance of,position held,given name",19th President of the French Republic,Georges Pompidou,item
+WikiItems/Q2190,Q2190,_gBP4CLu---,"place of birth,MusicBrainz artist ID,GND identifier,cause of death,instance of,given name",French comedian and actor,Coluche,item
+WikiItems/Q2191,Q2191,_gBP4CL6---,"list of monuments,capital,is in the administrative territorial entity,type of administrative territorial entity,flag,time zone,instance of,category for people who died here,GeoNames ID",federal subject of Russia,Leningrad Oblast,item
+WikiItems/Q2192,Q2192,_gBP4CMC---,"developer,instance of",bitmap image format,Graphics Interchange Format,item
+WikiItems/Q2205,Q2205,_gBP4CMO---,"is in the administrative territorial entity,instance of",city in the Philippines,Iriga,item
+WikiItems/Q2207,Q2207,_gBP4CMW---,"is in the administrative territorial entity,instance of","city in Camarines Sur, Philippines",Naga,item
+WikiItems/Q2214,Q2214,_gBP4CMi---,"list of monuments,population,is in the administrative territorial entity,instance of,Wikivoyage banner,GND identifier,OKTMO identifier,flag,category for people who died here,GeoNames ID","city and the administrative center of Pskov Oblast, Russia",Pskov,item
+WikiItems/Q2217,Q2217,_gBP4CMq---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",Chilean municipality and commune,Alto Hospicio,item
+WikiItems/Q2220,Q2220,_gBP4CMu---,"instance of,is in the administrative territorial entity,GND identifier",river in Alberta and British Columbia,Peace River,item
+WikiItems/Q2222,Q2222,_gBP4CM2---,"instance of,title (string),original language,GND identifier",anti-slavery novel by Harriet Beecher Stowe,Uncle Tom's Cabin,item
+WikiItems/Q2229,Q2229,_gBP4CN----,"is in the administrative territorial entity,type of administrative territorial entity,instance of","municipality in Telemark county, Norway",Nissedal,item
+WikiItems/Q2230,Q2230,_gBP4CNK---,"instance of,is in the administrative territorial entity,GND identifier,type of administrative territorial entity","municipality in the district of Fürth, in Bavaria, Germany",Langenzenn,item
+WikiItems/Q2232,Q2232,_gBP4CNS---,"is in the administrative territorial entity,type of administrative territorial entity,instance of","municipality in Telemark county, Norway",Kviteseid,item
+WikiItems/Q2236,Q2236,_gBP4CNa---,"is in the administrative territorial entity,type of administrative territorial entity,instance of","municipality in Telemark county, Norway",Seljord,item
+WikiItems/Q2238,Q2238,_gBP4CNi---,"instance of,follows",date,January 9,item
+WikiItems/Q2239,Q2239,_gBP4CNu---,"instance of,is in the administrative territorial entity","town and suburb of Copenhagen, Denmark",Kongens Lyngby,item
+WikiItems/Q2241,Q2241,_gBP4CN2---,"is in the administrative territorial entity,type of administrative territorial entity,instance of","municipality in Telemark county, Norway",Tokke,item
+WikiItems/Q2243,Q2243,_gBP4CO----,"follows,instance of",date,January 10,item
+WikiItems/Q2255,Q2255,_gBP4COG---,"instance of,follows",date,January 13,item
+WikiItems/Q2260,Q2260,_gBP4COO---,"follows,instance of",date,January 15,item
+WikiItems/Q2261,Q2261,_gBP4COa---,"instance of,follows",date,January 16,item
+WikiItems/Q2264,Q2264,_gBP4COi---,"instance of,follows",date,January 17,item
+WikiItems/Q2271,Q2271,_gBP4COu---,"capital,type of administrative territorial entity,is in the administrative territorial entity,instance of",province of Indonesia,South Sumatra,item
+WikiItems/Q2272,Q2272,_gBP4CO2---,"Wikivoyage banner,is in the administrative territorial entity,type of administrative territorial entity,instance of","city and municipality in Telemark county, Norway",Skien,item
+WikiItems/Q2273,Q2273,_gBP4CPC---,"instance of,follows",date,January 21,item
+WikiItems/Q2276,Q2276,_gBP4CPK---,"instance of,follows",date,January 23,item
+WikiItems/Q2281,Q2281,_gBP4CPW---,"instance of,from fictional universe,present in work",primary antagonist and titular character of J. R. R. Tolkien's The Lord of the Rings,Sauron,item
+WikiItems/Q2282,Q2282,_gBP4CPi---,"instance of,follows",date,January 26,item
+WikiItems/Q2293,Q2293,_gBP4CPu---,instance of,TV series,Chuck,item
+WikiItems/Q2294,Q2294,_gBP4CP2---,"interaction,opposite of,GND identifier",subatomic particle with positive charge,proton,item
+WikiItems/Q2300,Q2300,_gBP4CQ----,"instance of,follows",date,December 5,item
+WikiItems/Q2301,Q2301,_gBP4CQG---,"instance of,follows",date,December 8,item
+WikiItems/Q2311,Q2311,_gBP4CQO---,"instance of,subsidiaries,chief executive officer",pan-European aerospace and defence corporation,Airbus Group,item
+WikiItems/Q2319,Q2319,_gBP4CQW---,"instance of,follows",date,February 5,item
+WikiItems/Q2327,Q2327,_gBP4CQe---,"instance of,given name",Russian motorcycle speedway rider,Emil Sayfutdinov,item
+WikiItems/Q2334,Q2334,_gBP4CQq---,"instance of,follows",date,February 15,item
+WikiItems/Q2335,Q2335,_gBP4CQy---,"instance of,follows",Date,February 11,item
+WikiItems/Q2336,Q2336,_gBP4CR----,"instance of,follows",date,February 12,item
+WikiItems/Q2345,Q2345,_gBP4CRG---,"award received,film editor,instance of,original language,GND identifier",1957 American drama film,12 Angry Men,item
+WikiItems/Q2362,Q2362,_gBP4CRS---,"instance of,follows",date,February 28,item
+WikiItems/Q2369,Q2369,_gBP4CRe---,"instance of,follows",date,December 12,item
+WikiItems/Q2370,Q2370,_gBP4CRm---,"instance of,GND identifier",multi-paradigm (object-oriented) programming language,C♯,item
+WikiItems/Q2376,Q2376,_gBP4CRy---,"is in the administrative territorial entity,instance of","quarter in Hamburg, Germany",Allermöhe,item
+WikiItems/Q2380,Q2380,_gBP4CS----,"is in the administrative territorial entity,instance of","quarter in Hamburg, Germany",Altengamme,item
+WikiItems/Q2392,Q2392,_gBP4CSG---,"instance of,follows",date,March 5,item
+WikiItems/Q2396,Q2396,_gBP4CSO---,"instance of,follows",date,March 4,item
+WikiItems/Q2397,Q2397,_gBP4CSa---,"instance of,follows",date,March 10,item
+WikiItems/Q2406,Q2406,_gBP4CSm---,"instance of,follows",single released by Enrique Iglesias,¿Dónde Están Corazón?,item
+WikiItems/Q2408,Q2408,_gBP4CSu---,"is in the administrative territorial entity,instance of",quarter in the Bergedorf borough of the Free and Hanseatic city of Hamburg in northern Germany,Lohbrügge,item
+WikiItems/Q2414,Q2414,_gBP4CS6---,"is in the administrative territorial entity,instance of","quarter of Hamburg, Germany",Neuengamme,item
+WikiItems/Q2418,Q2418,_gBP4CTC---,instance of,"suburb in the district Bergedorf, Germany",Hamburg-Reitbrook,item
+WikiItems/Q2423,Q2423,_gBP4CTO---,"instance of,GND identifier,Wikivoyage banner,OKTMO identifier,flag,category for people who died here,GeoNames ID",city in the center of European Russia,Yaroslavl,item
+WikiItems/Q2424,Q2424,_gBP4CTW---,"instance of,follows",date,March 19,item
+WikiItems/Q2426,Q2426,_gBP4CTi---,"instance of,follows,point in time",a year,1988,item
+WikiItems/Q2435,Q2435,_gBP4CTq---,"instance of,follows",date,March 22,item
+WikiItems/Q2437,Q2437,_gBP4CTy---,"instance of,follows,point in time",year,1981,item
+WikiItems/Q2453,Q2453,_gBP4CT6---,"instance of,follows",date,March 24,item
+WikiItems/Q2470,Q2470,_gBP4CUG---,"instance of,developer,version",first expansion pack to the video game Heroes of Might and Magic V,Heroes of Might and Magic V: Hammers of Fate,item
+WikiItems/Q2471,Q2471,_gBP4CUO---,"instance of,is in the administrative territorial entity,Wikivoyage banner,dmoz",capital of Yemen,Sana‘a,item
+WikiItems/Q2474,Q2474,_gBP4CUW---,"instance of,follows,point in time",year,1970,item
+WikiItems/Q2475,Q2475,_gBP4CUe---,"instance of,follows,point in time",a year,1971,item
+WikiItems/Q2477,Q2477,_gBP4CUq---,"instance of,follows,point in time",a year,1973,item
+WikiItems/Q2478,Q2478,_gBP4CUy---,"instance of,follows,point in time",a year,1974,item
+WikiItems/Q2487,Q2487,_gBP4CU6---,"GND identifier,instance of",series of wars principally fought in Central Europe,Thirty Years' War,item
+WikiItems/Q2491,Q2491,_gBP4CVC---,"taxon name,taxon rank,instance of",genus of tyrannosaurid theropod dinosaur,Tarbosaurus,item
+WikiItems/Q2492,Q2492,_gBP4CVK---,"instance of,place of birth,position held,GND identifier,award received,member of political party,signature,place of burial,NLA identifier,NTA identifier (Netherlands),given name","German statesman (1876-1967), Federal Chancellor of Germany, politician (CDU)",Konrad Adenauer,item
+WikiItems/Q2494,Q2494,_gBP4CVS---,"place of birth,position held,father,GND identifier,award received,employer,instance of,BNE identifier,NTA identifier (Netherlands),NLA identifier,Catholic Hierarchy ID,CANTIC,given name,signature",265th Pope of the Catholic Church,Benedict XVI,item
+WikiItems/Q2496,Q2496,_gBP4CVa---,"position held,GND identifier,place of birth,cause of death,member of political party,instance of,follows,award received,given name,employer",German politician (1897-1977),Ludwig Erhard,item
+WikiItems/Q2498,Q2498,_gBP4CVi---,"instance of,follows",date,April 13,item
+WikiItems/Q2499,Q2499,_gBP4CVq---,"instance of,follows",date,April 12,item
+WikiItems/Q2508,Q2508,_gBP4CVy---,"instance of,follows",date,April 4,item
+WikiItems/Q2515,Q2515,_gBP4CV6---,"instance of,original language",comic book series,Kick-Ass,item
+WikiItems/Q2518,Q2518,_gBP4CWC---,"doctoral thesis,father,member of political party,GND identifier,award received,place of birth,position held,instance of,NTA identifier (Netherlands),BNE identifier,MusicBrainz artist ID,given name",former chancellor of West Germany (1982-1990) and then the united Germany (1990-1998),Helmut Kohl,item
+WikiItems/Q2534,Q2534,_gBP4CWO---,"instance of,follows",date,April 28,item
+WikiItems/Q2538,Q2538,_gBP4CWW---,"place of birth,GND identifier,award received,signature,position held,instance of,member of political party,father,given name",president of Germany,Joachim Gauck,item
+WikiItems/Q2545,Q2545,_gBP4CWe---,"instance of,follows",date,May 2,item
+WikiItems/Q2546,Q2546,_gBP4CWq---,"instance of,PubChem ID (CID),CAS registry number",compound formerly used as an anticonvulsant and sedative,potassium bromide,item
+WikiItems/Q2552,Q2552,_gBP4CWy---,"instance of,follows",date,May 6,item
+WikiItems/Q2560,Q2560,_gBP4CX----,"instance of,follows",date,May 13,item
+WikiItems/Q2562,Q2562,_gBP4CXC---,"instance of,follows",date,May 15,item
+WikiItems/Q2567,Q2567,_gBP4CXO---,"GND identifier,place of birth,member of political party,signature,noble family,father,position held,award received,instance of,academic degree,employer,given name",Governing Mayor of West Berlin and President of the Federal Republic of Germany,Richard von Weizsäcker,item
+WikiItems/Q2573,Q2573,_gBP4CXW---,"GND identifier,member of political party,position held,signature,place of birth,father,instance of,award received,CANTIC,given name","German politician (SPD), 3rd President of the Federal Republic of Germany",Gustav Heinemann,item
+WikiItems/Q2574,Q2574,_gBP4CXe---,"instance of,follows",date,May 16,item
+WikiItems/Q2580,Q2580,_gBP4CXq---,"instance of,follows",date,May 21,item
+WikiItems/Q2595,Q2595,_gBP4CXy---,"instance of,MusicBrainz release group ID,follows",album of Deep Purple,Made in Japan,item
+WikiItems/Q2596,Q2596,_gBP4CY----,"list of monuments,flag,capital,type of administrative territorial entity,time zone,is in the administrative territorial entity,instance of,category for people who died here,GeoNames ID",federal subject of Russia,Kostroma Oblast,item
+WikiItems/Q2598,Q2598,_gBP4CYG---,"instance of,is in the administrative territorial entity,type of administrative territorial entity","town and borough in Hertfordshire, England",Watford,item
+WikiItems/Q2610,Q2610,_gBP4CYO---,"GND identifier,place of birth,member of political party,instance of,position held,award received,given name",East German politician,Willi Stoph,item
+WikiItems/Q2613,Q2613,_gBP4CYW---,"instance of,follows",date,15 June,item
+WikiItems/Q2622,Q2622,_gBP4CYi---,"instance of,follows",date,June 5,item
+WikiItems/Q2631,Q2631,_gBP4CYq---,instance of,entropy encoding,Codage zeta,item
+WikiItems/Q2633,Q2633,_gBP4CYy---,,universal code,Fibonacci coding,item
+WikiItems/Q2635,Q2635,_gBP4CZ----,instance of,universal coding,Levenstein coding,item
+WikiItems/Q2636,Q2636,_gBP4CZK---,"instance of,follows",date,22 December,item
+WikiItems/Q2640,Q2640,_gBP4CZS---,"follows,discovery date,JPL Small-Body Database identifier,instance of",asteroid,10 Hygiea,item
+WikiItems/Q2641,Q2641,_gBP4CZe---,"instance of,league",professional Italian football club,Napoli,item
+WikiItems/Q2644,Q2644,_gBP4CZm---,"instance of,follows,point in time",year,1968,item
+WikiItems/Q2649,Q2649,_gBP4CZu---,"instance of,follows,point in time",year,1966,item
+WikiItems/Q2650,Q2650,_gBP4CZ6---,"instance of,follows,point in time",a year,1965,item
+WikiItems/Q2651,Q2651,_gBP4CaC---,instance of,a form of entropy encoding used in lossless data compression,Arithmetic coding,item
+WikiItems/Q2656,Q2656,_gBP4CaK---,"type of administrative territorial entity,is in the administrative territorial entity,time zone,ISTAT ID,Wikivoyage banner,dmoz,instance of,GND identifier,population,category for people who died here",Italian comune,Palermo,item
+WikiItems/Q2662,Q2662,_gBP4CaW---,"instance of,follows",date,25 June,item
+WikiItems/Q2667,Q2667,_gBP4Cae---,"GND identifier,place of birth,cause of death,signature,position held,instance of,award received,BNE identifier,NLA identifier,NTA identifier (Netherlands),given name","Prussian-German field marshal, statesman, and President of Germany",Paul von Hindenburg,item
+WikiItems/Q2668,Q2668,_gBP4Caq---,"instance of,follows",date,23 June,item
+WikiItems/Q2674,Q2674,_gBP4Ca2---,"instance of,league",professional Italian football club,Palermo,item
+WikiItems/Q2677,Q2677,_gBP4Cb----,"father,position held,MusicBrainz artist ID,GND identifier,place of birth,award received,instance of,noble family,signature,place of burial,follows,CANTIC,given name",German Emperor and King of Prussia,Wilhelm II,item
+WikiItems/Q2682,Q2682,_gBP4CbK---,instance of,lossless data compression algorithm,Lempel–Ziv–Oberhumer,item
+WikiItems/Q2683,Q2683,_gBP4CbS---,"Wikivoyage banner,type of administrative territorial entity,is in the administrative territorial entity,time zone,ISTAT ID,dmoz,instance of,population,category for people who died here",Italian comune,Parma,item
+WikiItems/Q2684,Q2684,_gBP4Cba---,"instance of,Wikivoyage banner,OKTMO identifier,flag,category for people who died here,GeoNames ID",city in the center of European Russia,Vladimir,item
+WikiItems/Q2686,Q2686,_gBP4Cbm---,"instance of,follows",date,15 July,item
+WikiItems/Q2691,Q2691,_gBP4Cbu---,"instance of,follows",date,14 July,item
+WikiItems/Q2695,Q2695,_gBP4Cb6---,"instance of,follows",date,6 July,item
+WikiItems/Q2700,Q2700,_gBP4CcG---,"instance of,follows",date,1 July,item
+WikiItems/Q2703,Q2703,_gBP4CcO---,instance of,moment in time used as a reference point for some time-varying astronomical quantity,epoch,item
+WikiItems/Q2714,Q2714,_gBP4CcW---,"league,instance of,MusicBrainz artist ID","association football club, based in Watford, Hertfordshire, UK",Watford Football Club,item
+WikiItems/Q2715,Q2715,_gBP4Cca---,"instance of,follows",date,31 July,item
+WikiItems/Q2719,Q2719,_gBP4Ccm---,"instance of,follows",date,27 July,item
+WikiItems/Q2720,Q2720,_gBP4Ccy---,"instance of,follows",date,25 July,item
+WikiItems/Q2721,Q2721,_gBP4Cc6---,"instance of,follows",date,24 July,item
+WikiItems/Q2726,Q2726,_gBP4CdG---,"instance of,follows",date,19 July,item
+WikiItems/Q2727,Q2727,_gBP4CdO---,"instance of,follows",date,21 July,item
+WikiItems/Q2740,Q2740,_gBP4CdW---,"is in the administrative territorial entity,GND identifier,instance of,type of administrative territorial entity","town in North Rhine-Westphalia, Germany",Sendenhorst,item
+WikiItems/Q2751,Q2751,_gBP4Cdi---,"instance of,type of administrative territorial entity,is in the administrative territorial entity,time zone,ISTAT ID,Wikivoyage banner,dmoz,GND identifier,population",Italian comune,Siena,item
+WikiItems/Q2756,Q2756,_gBP4Cdq---,"instance of,league",Italian football club,Robur Siena,item
+WikiItems/Q2765,Q2765,_gBP4Cdy---,"instance of,is in the administrative territorial entity,time zone,Wikivoyage banner,type of administrative territorial entity,GND identifier,dmoz,category for people who died here",city in Germany,Gelsenkirchen,item
+WikiItems/Q2773,Q2773,_gBP4Ce----,"instance of,is in the administrative territorial entity,time zone,type of administrative territorial entity,GND identifier,dmoz,Wikivoyage banner,category for people who died here","city in Lower Saxony, Germany",Braunschweig,item
+WikiItems/Q2774,Q2774,_gBP4CeG---,"instance of,follows",date,15 August,item
+WikiItems/Q2780,Q2780,_gBP4CeO---,"instance of,follows",date,8 August,item
+WikiItems/Q2784,Q2784,_gBP4CeW---,"instance of,follows",date,4 August,item
+WikiItems/Q2789,Q2789,_gBP4Cei---,"is in the administrative territorial entity,GND identifier,instance of,time zone,type of administrative territorial entity","town in North Rhine-Westphalia, Germany",Telgte,item
+WikiItems/Q2793,Q2793,_gBP4Ceu---,"MusicBrainz artist ID,instance of",German authors who together collected folklore,Brothers Grimm,item
+WikiItems/Q2800,Q2800,_gBP4Ce2---,"instance of,follows",date,27 December,item
+WikiItems/Q2801,Q2801,_gBP4Cf----,"instance of,OKTMO identifier,flag,category for people who died here,GeoNames ID",city in the center of European Russia,Bryansk,item
+WikiItems/Q2802,Q2802,_gBP4CfK---,instance of,fictional grimoire appearing in the stories by horror writer H. P. Lovecraft,Necronomicon,item
+WikiItems/Q2805,Q2805,_gBP4CfW---,"is in the administrative territorial entity,time zone,type of administrative territorial entity,dmoz,instance of,GND identifier","city in North Rhine-Westphalia, Germany",Krefeld,item
+WikiItems/Q2809,Q2809,_gBP4Cfe---,"is in the administrative territorial entity,GND identifier,instance of,type of administrative territorial entity","municipality in North Rhine-Westphalia, Germany",Everswinkel,item
+WikiItems/Q2810,Q2810,_gBP4Cfm---,"Wikivoyage banner,flag,capital,type of administrative territorial entity,time zone,is in the administrative territorial entity,instance of,category for people who died here,GeoNames ID",federal subject of Russia,Bryansk Oblast,item
+WikiItems/Q2818,Q2818,_gBP4Cfu---,"instance of,follows",date,30 August,item
+WikiItems/Q2820,Q2820,_gBP4Cf6---,"instance of,follows",date,26 August,item
+WikiItems/Q2821,Q2821,_gBP4CgC---,"follows,instance of",date,23 August,item
+WikiItems/Q2830,Q2830,_gBP4CgO---,"instance of,follows",date,31 August,item
+WikiItems/Q2842,Q2842,_gBP4CgW---,"flag,capital,type of administrative territorial entity,time zone,is in the administrative territorial entity,instance of,Wikivoyage banner,category for people who died here,GeoNames ID",federal subject of Russia,Kaluga Oblast,item
+WikiItems/Q2848,Q2848,_gBP4Cge---,"instance of,follows",date,13 September,item
+WikiItems/Q2852,Q2852,_gBP4Cgq---,"instance of,follows",date,7 September,item
+WikiItems/Q2853,Q2853,_gBP4Cgy---,"instance of,follows",date,September 10,item
+WikiItems/Q2857,Q2857,_gBP4Ch----,"instance of,follows",date,2 September,item
+WikiItems/Q2859,Q2859,_gBP4ChG---,"instance of,follows",date,September 1,item
+WikiItems/Q2860,Q2860,_gBP4ChS---,"instance of,follows",date,3 September,item
+WikiItems/Q2866,Q2866,_gBP4Cha---,"place of birth,GND identifier,position held,award received,member of political party,member of sports team,instance of,given name",President of Belarus since 20 July 1994,Alexander Lukashenko,item
+WikiItems/Q2867,Q2867,_gBP4Chi---,instance of,mathematical technique used in data compression and analysis,wavelet transform,item
+WikiItems/Q2876,Q2876,_gBP4Chu---,"is in the administrative territorial entity,type of administrative territorial entity,GND identifier,instance of",district in Germany,Nordwestmecklenburg,item
+WikiItems/Q2882,Q2882,_gBP4Ch6---,"instance of,follows",date,29 September,item
+WikiItems/Q2883,Q2883,_gBP4CiC---,"instance of,follows",date,28 September,item
+WikiItems/Q2884,Q2884,_gBP4CiO---,"instance of,follows",date,27 September,item
+WikiItems/Q2886,Q2886,_gBP4CiS---,"instance of,follows",date,25 September,item
+WikiItems/Q2889,Q2889,_gBP4Cie---,"instance of,follows",date,22 September,item
+WikiItems/Q2901,Q2901,_gBP4Cim---,"instance of,follows",date,30 December,item
+WikiItems/Q2902,Q2902,_gBP4Ciq---,"type of administrative territorial entity,capital,is in the administrative territorial entity,instance of,GND identifier",German district,Landkreis Mecklenburgische Seenplatte,item
+WikiItems/Q2903,Q2903,_gBP4Ciy---,instance of,"Tramway in Lyon, France",Lyon Tramway Line 1,item
+WikiItems/Q2912,Q2912,_gBP4Cj----,"instance of,follows",date,December 31,item
+WikiItems/Q2914,Q2914,_gBP4CjG---,,interrelations of club association football leagues in Spain,Spanish football league system,item
+WikiItems/Q2927,Q2927,_gBP4CjO---,"instance of,follows",date,11 October,item
+WikiItems/Q2928,Q2928,_gBP4Cja---,"instance of,follows",date,6 October,item
+WikiItems/Q2930,Q2930,_gBP4Cji---,"instance of,follows",date,5 October,item
+WikiItems/Q2933,Q2933,_gBP4Cjq---,"category for people who died here,instance of,Wikivoyage banner,type of administrative territorial entity,dmoz,GND identifier",capital of Paraguay,Asunción,item
+WikiItems/Q2934,Q2934,_gBP4Cj2---,"taxon name,taxon rank,instance of,Encyclopedia of Life ID",domesticated mammal raised primarily for its milk,goat,item
+WikiItems/Q2935,Q2935,_gBP4Ck----,,young of domestic cattle,calf,item
+WikiItems/Q2938,Q2938,_gBP4CkK---,"time zone,is in the administrative territorial entity,type of administrative territorial entity,GND identifier,instance of,category for people who died here",German city,Leverkusen,item
+WikiItems/Q2943,Q2943,_gBP4CkS---,"architectural style,instance of,GND identifier,commisioned by",official residence of the pope; known for its painted ceiling,Sistine Chapel,item
+WikiItems/Q2947,Q2947,_gBP4Cke---,"is in the administrative territorial entity,type of administrative territorial entity,GND identifier,instance of",German district,Kreis Dithmarschen,item
+WikiItems/Q2948,Q2948,_gBP4Ckm---,"type of administrative territorial entity,instance of,dmoz,GND identifier,is in the administrative territorial entity,population",German city,Neuss,item
+WikiItems/Q2952,Q2952,_gBP4Ckq---,"instance of,follows",date,28 October,item
+WikiItems/Q2959,Q2959,_gBP4Cky---,"instance of,follows",date,20 October,item
+WikiItems/Q2966,Q2966,_gBP4Cl----,"population,is in the administrative territorial entity,time zone,type of administrative territorial entity,GND identifier,instance of,dmoz,Wikivoyage banner,category for people who died here","city in Baden-Württemberg, Germany",Heidelberg,item
+WikiItems/Q2970,Q2970,_gBP4ClC---,"is in the administrative territorial entity,type of administrative territorial entity,instance of,GND identifier",German district,Kreis Plön,item
+WikiItems/Q2979,Q2979,_gBP4ClO---,GND identifier,ability of individuals to have agency,liberty,item
+WikiItems/Q2981,Q2981,_gBP4ClW---,"is in the administrative territorial entity,architectural style,instance of,MusicBrainz place ID,heritage status",cathedral in Paris,Notre Dame de Paris,item
+WikiItems/Q2984,Q2984,_gBP4Cli---,"instance of,follows",date,13 November,item
+WikiItems/Q2993,Q2993,_gBP4Clq---,"instance of,follows",date,5 November,item
+WikiItems/Q2995,Q2995,_gBP4Cly---,"instance of,follows",date,3 November,item
+WikiItems/Q2996,Q2996,_gBP4Cm----,"instance of,follows",date,2 November,item
+WikiItems/Q2997,Q2997,_gBP4CmK---,"instance of,follows",date,1 November,item
+WikiItems/Q3001,Q3001,_gBP4CmS---,"instance of,Wikivoyage banner,time zone",capital of Suriname,Paramaribo,item
+WikiItems/Q3002,Q3002,_gBP4Cma---,"GND identifier,follows,discovery date,JPL Small-Body Database identifier,instance of",large asteroid of the main asteroid belt,Pallas,item
+WikiItems/Q3004,Q3004,_gBP4Cmi---,"located next to body of water,population,is in the administrative territorial entity,time zone,Wikivoyage banner,type of administrative territorial entity,GND identifier,instance of","town in Bavaria, Germany",Ingolstadt,item
+WikiItems/Q3011,Q3011,_gBP4Cmq---,"is in the administrative territorial entity,type of administrative territorial entity,instance of,GND identifier",German district,Steinburg,item
+WikiItems/Q3016,Q3016,_gBP4Cmy---,"instance of,follows",date,November 29,item
+WikiItems/Q3019,Q3019,_gBP4Cn----,"instance of,follows",date,November 26,item
+WikiItems/Q3021,Q3021,_gBP4CnG---,"instance of,follows",date,November 23,item
+WikiItems/Q3024,Q3024,_gBP4CnO---,"instance of,follows",date,November 20,item
+WikiItems/Q3025,Q3025,_gBP4Cna---,"instance of,follows",date,November 22,item
+WikiItems/Q3029,Q3029,_gBP4Cni---,"instance of,follows",date,November 16,item
+WikiItems/Q3032,Q3032,_gBP4Cnq---,instance of,Body of water near Australia,Darwin Harbour,item
+WikiItems/Q3036,Q3036,_gBP4Cn2---,"MusicBrainz artist ID,instance of,employer",American conductor,Mack Wilberg,item
+WikiItems/Q3037,Q3037,_gBP4CoC---,"Wikivoyage banner,dmoz,is in the administrative territorial entity,instance of,time zone,category for people who died here",capital of Nepal,Kathmandu,item
+WikiItems/Q3039,Q3039,_gBP4CoK---,,Slow-cooked French casserole,Cassoulet,item
+WikiItems/Q3067,Q3067,_gBP4CoW---,"instance of,is in the administrative territorial entity,heritage status",ancient Roman aqueduct,Aqueduct of the Gier,item
+WikiItems/Q3078,Q3078,_gBP4Coe---,"is in the administrative territorial entity,heritage status",Ancient aqueduct in France,Aqueduc de l'Yzeron,item
+WikiItems/Q3083,Q3083,_gBP4Com---,"instance of,capital,is in the administrative territorial entity,type of administrative territorial entity,time zone,Wikivoyage banner,southernmost point,category for people who died here",French département,Ain,item
+WikiItems/Q3093,Q3093,_gBP4Cou---,"is in the administrative territorial entity,capital,type of administrative territorial entity,instance of,time zone,southernmost point",French department,Aisne,item
+WikiItems/Q3094,Q3094,_gBP4Co6---,"is in the administrative territorial entity,instance of",Romanian monastery,Căldăruşani Monastery,item
+WikiItems/Q3098,Q3098,_gBP4CpC---,"GND identifier,instance of,given name",early 18th century Swedish officer,Georg Henrik Lybecker,item
+WikiItems/Q3108,Q3108,_gBP4CpK---,instance of,A bronze tablet engraved with a speech by roman emperor Claudius,Lyon Tablet,item
+WikiItems/Q3109,Q3109,_gBP4CpS---,"type of administrative territorial entity,is in the administrative territorial entity,instance of",freguesia of Portugal,Cordinhã,item
+WikiItems/Q3115,Q3115,_gBP4Cpa---,"type of administrative territorial entity,is in the administrative territorial entity,instance of",Portuguese parish,Cerdeira,item
+WikiItems/Q3125,Q3125,_gBP4Cpi---,"type of administrative territorial entity,time zone,is in the administrative territorial entity,capital,Wikivoyage banner,dmoz,instance of,southernmost point",French department,Hautes-Alpes,item
+WikiItems/Q3128,Q3128,_gBP4Cpu---,"GND identifier,place of birth,instance of,Oxford Biography Index Number",British racecar driver,Graham Hill,item
+WikiItems/Q3133,Q3133,_gBP4Cp6---,GND identifier,the color located between yellow and blue in the continuum of colors of visible light,green,item
+WikiItems/Q3143,Q3143,_gBP4CqC---,"GND identifier,discovery date,instance of",Galilean moon of Jupiter,Europa,item
+WikiItems/Q3155,Q3155,_gBP4CqO---,instance of,2nd century Roman mosaic,Circus Games Mosaic,item
+WikiItems/Q3173,Q3173,_gBP4Cqa---,"political ideology,instance of",Russian political party,Green Alliance–The People's Party,item
+WikiItems/Q3175,Q3175,_gBP4Cqi---,is in the administrative territorial entity,Ancient Roman theatre in France,Odeon of Lyon,item
+WikiItems/Q3181,Q3181,_gBP4Cqu---,"instance of,is in the administrative territorial entity",Polish church,Protestant church in Ozimek,item
+WikiItems/Q3183,Q3183,_gBP4Cq2---,"time zone,is in the administrative territorial entity,instance of,Wikivoyage banner,dmoz,population,category for people who died here",capital city of Western Australia,Perth,item
+WikiItems/Q3186,Q3186,_gBP4Cr----,"taxon rank,taxon name,instance of,Encyclopedia of Life ID",Dragonfly species,Erythrodiplax media,item
+WikiItems/Q3190,Q3190,_gBP4CrK---,,2012 Rhythmic Gymnastics European Championships,2012 Rhythmic Gymnastics European Championships,item
+WikiItems/Q3201,Q3201,_gBP4CrW---,"instance of,is in the administrative territorial entity","astronomical observatory in Middlesex Centre, Ontario, Canada",Elginfield Observatory,item
+WikiItems/Q3202,Q3202,_gBP4Cre---,"instance of,is in the administrative territorial entity","castle in Barcaldine, Scotland",Barcaldine Castle,item
+WikiItems/Q3204,Q3204,_gBP4Crm---,,tennis tournament,Geneva Open Challenger,item
+WikiItems/Q3211,Q3211,_gBP4Cry---,"type of administrative territorial entity,is in the administrative territorial entity,instance of",Secarias municipality,Secarias,item
+WikiItems/Q3213,Q3213,_gBP4Cr6---,"type of administrative territorial entity,is in the administrative territorial entity,instance of",Covões municipality,Covões,item
+WikiItems/Q3233,Q3233,_gBP4CsC---,"type of administrative territorial entity,is in the administrative territorial entity,instance of",Portuguese municipality,Piódão,item
+WikiItems/Q3235,Q3235,_gBP4CsO---,"capital,is in the administrative territorial entity,instance of,Wikivoyage banner,dmoz",Australian federal territory,Northern Territory,item
+WikiItems/Q3240,Q3240,_gBP4CsW---,"type of administrative territorial entity,time zone,is in the administrative territorial entity,capital,Wikivoyage banner,instance of,southernmost point,category for people who died here",French department in Provence-Alpes-Côte d'Azur,Bouches-du-Rhône,item
+WikiItems/Q3242,Q3242,_gBP4Csi---,"instance of,original language",2012 British film,A Fantastic Fear of Everything,item
+WikiItems/Q3248,Q3248,_gBP4Csu---,instance of,Wikipedia disambiguation page,Robert Newton,item
+WikiItems/Q3251,Q3251,_gBP4Cs2---,"position held,place of birth,instance of",U.S. Representative,Elisha E. Meredith,item
+WikiItems/Q3255,Q3255,_gBP4Ct----,"is in the administrative territorial entity,instance of,Wikivoyage banner",Baltic Sea island,Usedom,item
+WikiItems/Q3257,Q3257,_gBP4CtG---,"GND identifier,discovery date,instance of",Jovian moon,Amalthea,item
+WikiItems/Q3260,Q3260,_gBP4CtO---,"GND identifier,place of birth,instance of,given name",Australian-born British composer and conductor,Hubert Clifford,item
+WikiItems/Q3262,Q3262,_gBP4CtW---,"instance of,is in the administrative territorial entity","church in Kilmun on the Cowal Peninsula, Scotland",St Munn's Parish Church,item
+WikiItems/Q3263,Q3263,_gBP4Cti--_,instance of,Wikipedia disambiguation page,Robert Rose,item
+WikiItems/Q3265,Q3265,_gBP4Cty---,instance of,Wikimedia category page,Category:Sports competitions in Tanzania,item
+WikiItems/Q3271,Q3271,_gBP4Ct2---,"position held,member of political party,instance of,place of birth",U.S. Representative,Todd Russell Platts,item
+WikiItems/Q3276,Q3276,_gBP4CuC---,,exploration of Jupiter,exploration of Jupiter,item
+WikiItems/Q3280,Q3280,_gBP4CuK---,"instance of,GND identifier","river in Mecklenburg-Vorpommern, Germany",Warnow,item
+WikiItems/Q3282,Q3282,_gBP4CuS---,"is in the administrative territorial entity,type of administrative territorial entity,time zone,ISTAT ID,instance of,population",Italian comune,Lardaro,item
+WikiItems/Q3285,Q3285,_gBP4Cue---,"member of political party,instance of,position held,given name",British Conservative Party politician,Michael Shaw,item
+WikiItems/Q3288,Q3288,_gBP4Cum---,"place of birth,instance of,given name","American judge, politician, and general",John Gregg,item
+WikiItems/Q3298,Q3298,_gBP4Cuu---,,Football competition,Intercontinental Champions' Supercup,item
+WikiItems/Q3310,Q3310,_gBP4Cu2---,instance of,Finnish firearm manufacturer,SAKO,item
+WikiItems/Q3313,Q3313,_gBP4Cv----,instance of,Wikimedia category page,Category:Slovak architects,item
+WikiItems/Q3314,Q3314,_gBP4CvG---,instance of,"river in Schleswig-Holstein, Germany",Eider,item
+WikiItems/Q3319,Q3319,_gBP4CvO---,"place of birth,instance of,given name",Japanese actress,Yukiko Kobayashi,item
+WikiItems/Q3322,Q3322,_gBP4Cva---,"discovery date,instance of",Largest moon of Uranus,Titania,item
+WikiItems/Q3323,Q3323,_gBP4Cvi---,"is in the administrative territorial entity,instance of,Wikivoyage banner,OKTMO identifier,flag,category for people who died here,GeoNames ID",city in the south of Russia,Belgorod,item
+WikiItems/Q3327,Q3327,_gBP4Cvu---,"type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,dmoz,instance of,GND identifier","commune in Hautes-Pyrénées, France",Lourdes,item
+WikiItems/Q3329,Q3329,_gBP4Cv2---,"flag,capital,type of administrative territorial entity,time zone,is in the administrative territorial entity,instance of,Wikivoyage banner,category for people who died here,GeoNames ID",federal subject of Russia,Belgorod Oblast,item
+WikiItems/Q3331,Q3331,_gBP4Cw----,"is in the administrative territorial entity,instance of",road tunnel in Lyon,tunnel de la Croix-Rousse,item
+WikiItems/Q3332,Q3332,_gBP4CwG---,"discovery date,instance of",Moon of Uranus,Oberon,item
+WikiItems/Q3338,Q3338,_gBP4CwS---,"discovery date,instance of",Moon of Uranus,Umbriel,item
+WikiItems/Q3344,Q3344,_gBP4Cwa---,"instance of,type of administrative territorial entity,is in the administrative territorial entity","arrondissement of Lyon, France",2nd arrondissement of Lyon,item
+WikiItems/Q3347,Q3347,_gBP4Cwm---,"taxon rank,instance of,taxon name,Encyclopedia of Life ID",genus of five species of fish,Laetacara,item
+WikiItems/Q3349,Q3349,_gBP4Cwy---,"type of administrative territorial entity,time zone,is in the administrative territorial entity,capital,Wikivoyage banner,instance of,southernmost point",French department,Côtes-d'Armor,item
+WikiItems/Q3356,Q3356,_gBP4Cw6---,"father,GND identifier,instance of,noble family",ruler of the Seleucid Empire,Antiochus IV Epiphanes,item
+WikiItems/Q3359,Q3359,_gBP4CxC---,"instance of,discovery date,GND identifier",largest moon of Neptune,Triton,item
+WikiItems/Q3360,Q3360,_gBP4CxK---,"instance of,type of administrative territorial entity,is in the administrative territorial entity","arrondissement of Lyon, France",7th arrondissement of Lyon,item
+WikiItems/Q3366,Q3366,_gBP4CxS---,"instance of,type of administrative territorial entity,is in the administrative territorial entity","arrondissement of Lyon, France",9th arrondissement of Lyon,item
+WikiItems/Q3367,Q3367,_gBP4Cxe---,"is in the administrative territorial entity,type of administrative territorial entity,time zone,ISTAT ID,dmoz,instance of,GND identifier,population",Italian comune,Aosta,item
+WikiItems/Q3368,Q3368,_gBP4Cxq---,"type of administrative territorial entity,time zone,is in the administrative territorial entity,capital,instance of,southernmost point,category for people who died here",French department,Essonne,item
+WikiItems/Q3370,Q3370,_gBP4Cxy---,"time zone,is in the administrative territorial entity,Wikivoyage banner,type of administrative territorial entity,dmoz,instance of",city in Croatia,Zadar,item
+WikiItems/Q3372,Q3372,_gBP4Cx6---,"type of administrative territorial entity,time zone,is in the administrative territorial entity,capital,instance of,southernmost point,category for people who died here",French department,Eure,item
+WikiItems/Q3374,Q3374,_gBP4CyG---,"GND identifier,MusicBrainz artist ID,award received,instance of,place of birth",German violinist,Anne-Sophie Mutter,item
+WikiItems/Q3377,Q3377,_gBP4CyO---,"type of administrative territorial entity,time zone,is in the administrative territorial entity,capital,instance of,southernmost point",French department,Eure-et-Loir,item
+WikiItems/Q3403,Q3403,_gBP4Cya---,"instance of,is in the administrative territorial entity,HDS",highest mountain in Switzerland,Dufourspitze,item
+WikiItems/Q3439,Q3439,_gBP4Cyi---,"instance of,is in the administrative territorial entity","river in the Northwest Territories of Canada, tributary of the Mackenzie River",North Nahanni River,item
+WikiItems/Q3447,Q3447,_gBP4Cyu---,"flag,capital,type of administrative territorial entity,time zone,is in the administrative territorial entity,Wikivoyage banner,instance of,category for people who died here,GeoNames ID",federal subject of Russia,Voronezh Oblast,item
+WikiItems/Q3454,Q3454,_gBP4Cy2---,"is in the administrative territorial entity,type of administrative territorial entity,time zone,ISTAT ID,instance of,population",Italian comune,Volpara,item
+WikiItems/Q3460,Q3460,_gBP4Cz----,"taxon rank,taxon name,instance of,Encyclopedia of Life ID",genus of cichlid fishes,Chaetobranchus,item
+WikiItems/Q3489,Q3489,_gBP4CzG---,instance of,"quarter in Hamburg, Germany",Harburg,item
+WikiItems/Q3491,Q3491,_gBP4CzO---,"taxon rank,taxon name,instance of",species of fish,Crenicichla punctata,item
+WikiItems/Q3493,Q3493,_gBP4CzW---,"instance of,category's main topic",Wikimedia category page,Category:R.E.M. albums,item
+WikiItems/Q3495,Q3495,_gBP4Czi---,instance of,Wikimedia disambiguation page,Quilly,item
+WikiItems/Q3496,Q3496,_gBP4Czq---,"is in the administrative territorial entity,instance of,population",place in Harburg district,Hausbruch,item
+WikiItems/Q3497,Q3497,_gBP4Czu---,"type of administrative territorial entity,is in the administrative territorial entity,time zone,ISTAT ID,dmoz,instance of,population",Italian comune,Campobasso,item
+WikiItems/Q3502,Q3502,_gBP4Cz6---,"is in the administrative territorial entity,type of administrative territorial entity,time zone,ISTAT ID,instance of,population",Italian comune,Grauno,item
+WikiItems/Q3503,Q3503,_gBP4C0C---,instance of,river in central Africa,Congo River,item
+WikiItems/Q3504,Q3504,_gBP4C0O---,"is in the administrative territorial entity,instance of","suburb in the district Harburg, Germany",Langenbek,item
+WikiItems/Q3506,Q3506,_gBP4C0a---,"type of administrative territorial entity,is in the administrative territorial entity,time zone,instance of","commune in Charente, France",Saint-Brice,item
+WikiItems/Q3508,Q3508,_gBP4C0i---,"type of administrative territorial entity,is in the administrative territorial entity,time zone,ISTAT ID,instance of,population",Italian comune,Pietraferrazzana,item
+WikiItems/Q3514,Q3514,_gBP4C0q---,instance of,Wikimedia category page,Category:People from Varanasi,item
+WikiItems/Q3515,Q3515,_gBP4C02---,"instance of,CAS registry number,PubChem ID (CID),ChemSpider ID,KEGG ID",antiulcer drug in the class of proton pump inhibitors,rabeprazole,item
+WikiItems/Q3516,Q3516,_gBP4C1C---,"taxon rank,taxon name,instance of,Encyclopedia of Life ID",species of fish,Crenicichla tigrina,item
+WikiItems/Q3524,Q3524,_gBP4C1K---,"taxon rank,taxon name,instance of,Encyclopedia of Life ID",genus of fish,Teleocichla,item
+WikiItems/Q3534,Q3534,_gBP4C1S---,instance of,"suburb in the district Harburg, Germany",Sinstorf,item
+WikiItems/Q3543,Q3543,_gBP4C1a---,"instance of,type of administrative territorial entity,is in the administrative territorial entity,ISTAT ID,time zone,population",Italian comune,Potenza,item
+WikiItems/Q3547,Q3547,_gBP4C1m---,"place of burial,GND identifier,instance of,given name,NTA identifier (Netherlands),place of birth",Polish poet,Franciszek Karpiński,item
+WikiItems/Q3549,Q3549,_gBP4C1u---,"Wikivoyage banner,type of administrative territorial entity,instance of",city in Croatia,Šibenik,item
+WikiItems/Q3553,Q3553,_gBP4C12---,"instance of,population,is in the administrative territorial entity","commune in Botoşani County, Romania",Mileanca,item
+WikiItems/Q3555,Q3555,_gBP4C2C---,"instance of,category's main topic",Wikimedia category page,Category:Russia in the Eurovision Song Contest,item
+WikiItems/Q3556,Q3556,_gBP4C2G---,"category's main topic,instance of",Wikimedia category page,Category:Sweden in the Eurovision Song Contest,item
+WikiItems/Q3563,Q3563,_gBP4C2S---,"type of administrative territorial entity,is in the administrative territorial entity,time zone,ISTAT ID,instance of,population",Italian comune,Monteferrante,item
+WikiItems/Q3568,Q3568,_gBP4C2W---,,fixed reference point,Focus,item
+WikiItems/Q3569,Q3569,_gBP4C2i---,instance of,river in West Africa,Senegal river,item
+WikiItems/Q3571,Q3571,_gBP4C2q---,"instance of,category's main topic",Wikimedia category page,Category:Slovenia in the Eurovision Song Contest,item
+WikiItems/Q3577,Q3577,_gBP4C2y---,,ancient foot race,Hoplitodromos,item
+WikiItems/Q3583,Q3583,_gBP4C26---,"taxon rank,taxon name,instance of",freshwater fish,Blue acara,item
+WikiItems/Q3586,Q3586,_gBP4C3G---,"capital,type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,instance of",province of Indonesia on island of Java,East Java Province,item
+WikiItems/Q3591,Q3591,_gBP4C3S---,"is in the administrative territorial entity,type of administrative territorial entity,time zone,ISTAT ID,instance of,population",Italian comune,Canevino,item
+WikiItems/Q3592,Q3592,_gBP4C3a---,"is in the administrative territorial entity,type of administrative territorial entity,time zone,ISTAT ID,instance of,population",Italian comune,Velezzo Lomellina,item
+WikiItems/Q3595,Q3595,_gBP4C3i---,"type of administrative territorial entity,is in the administrative territorial entity,time zone,instance of","commune in Charente, France",Chazelles,item
+WikiItems/Q3597,Q3597,_gBP4C3q---,"Wikivoyage banner,is in the administrative territorial entity,type of administrative territorial entity,instance of",city in southern Chile,Ancud,item
+WikiItems/Q3601,Q3601,_gBP4C3y---,"is in the administrative territorial entity,type of administrative territorial entity,time zone,ISTAT ID,instance of,population",Italian comune,Calvignano,item
+WikiItems/Q3602,Q3602,_gBP4C4----,"is in the administrative territorial entity,type of administrative territorial entity,instance of","city and commune in the Elqui Province, Coquimbo Region, Chile",Andacollo,item
+WikiItems/Q3603,Q3603,_gBP4C4G---,"instance of,place of birth,given name",American voice actor,Jack Angel,item
+WikiItems/Q3614,Q3614,_gBP4C4S---,instance of,medical treatment,Occipital nerve stimulation,item
+WikiItems/Q3618,Q3618,_gBP4C4a---,"GND identifier,instance of","Synagogue in Kraków, Poland",Remuh Synagogue,item
+WikiItems/Q3623,Q3623,_gBP4C4e---,"MusicBrainz artist ID,instance of",New Orleans dixieland revival band,Dukes of Dixieland,item
+WikiItems/Q3626,Q3626,_gBP4C4q---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",territory in Antarctica claimed by Chile,Chilean Antarctic Territory,item
+WikiItems/Q3636,Q3636,_gBP4C42---,,measure of distance,1 exametre,item
+WikiItems/Q3637,Q3637,_gBP4C5----,"type of administrative territorial entity,is in the administrative territorial entity,instance of",Portuguese municipality,Sanguinheira,item
+WikiItems/Q3642,Q3642,_gBP4C5K---,"is in the administrative territorial entity,Wikivoyage banner,time zone,instance of,GeoNames ID",capital city of Eritrea,Asmara,item
+WikiItems/Q3647,Q3647,_gBP4C5S---,instance of,chairman of Macmillan Sheikh plc,Mohamed Sheikh,item
+WikiItems/Q3659,Q3659,_gBP4C5a---,"time zone,is in the administrative territorial entity,type of administrative territorial entity,instance of",capital and largest city of Chad,N'Djamena,item
+WikiItems/Q3671,Q3671,_gBP4C5i---,"GND identifier,place of birth,instance of",English actor and director,Justin Chadwick,item
+WikiItems/Q3675,Q3675,_gBP4C5q---,"is in the administrative territorial entity,instance of",Hindu temple,Kashi Vishwanath Temple,item
+WikiItems/Q3679,Q3679,_gBP4C52---,"type of administrative territorial entity,is in the administrative territorial entity,instance of",Portuguese municipality,Anceriz,item
+WikiItems/Q3680,Q3680,_gBP4C6C---,"list of monuments,flag,type of administrative territorial entity,is in the administrative territorial entity,capital,time zone,instance of,Wikivoyage banner,population,category for people who died here",federal subject of Russia,Krasnodar Krai,item
+WikiItems/Q3683,Q3683,_gBP4C6G---,"type of administrative territorial entity,is in the administrative territorial entity,instance of",Portuguese municipality,Murtede,item
+WikiItems/Q3690,Q3690,_gBP4C6S---,"taxon name,taxon rank,instance of,Encyclopedia of Life ID",genus of cichlid fishes,Herichthys,item
+WikiItems/Q3702,Q3702,_gBP4C6a---,instance of,"Turkish Basketball League team based in Bandırma, Balıkesir, Turkey",Banvit B.K.,item
+WikiItems/Q3705,Q3705,_gBP4C6i---,"taxon rank,taxon name,instance of,Encyclopedia of Life ID",species of fish,firemouth cichlid,item
+WikiItems/Q3708,Q3708,_gBP4C6q---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",Chilean city,Caldera,item
+WikiItems/Q3730,Q3730,_gBP4C62---,"taxon rank,taxon name,instance of,Encyclopedia of Life ID",species of fish,Nannacara bimaculata,item
+WikiItems/Q3736,Q3736,_gBP4C7----,"is in the administrative territorial entity,type of administrative territorial entity,instance of",city and commune in southern Chile,Carahue,item
+WikiItems/Q3740,Q3740,_gBP4C7K---,"instance of,category's main topic",Wikimedia category,Category:Project templates,item
+WikiItems/Q3741,Q3741,_gBP4C7W---,"capital,type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,instance of",province of Indonesia,Special Region of Yogyakarta,item
+WikiItems/Q3742,Q3742,_gBP4C7e---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",Chilean city and commune,Casablanca,item
+WikiItems/Q3749,Q3749,_gBP4C7m---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",city and commune in Chile,Cauquenes,item
+WikiItems/Q3750,Q3750,_gBP4C7y---,"is in the administrative territorial entity,time zone,type of administrative territorial entity,instance of,GND identifier,Wikivoyage banner","town in Thuringia, Germany",Gera,item
+WikiItems/Q3751,Q3751,_gBP4C76---,"instance of,is in the administrative territorial entity,Wikivoyage banner",capital of Cape Verde,Praia,item
+WikiItems/Q3752,Q3752,_gBP4C8G---,"instance of,OKTMO identifier,GeoNames ID",city in the south of Russia,Maykop,item
+WikiItems/Q3753,Q3753,_gBP4C8S---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",city and commune in Chile,Cañete,item
+WikiItems/Q3754,Q3754,_gBP4C8a---,"instance of,follows,point in time",year,1960,item
+WikiItems/Q3755,Q3755,_gBP4C8e---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",Chilean commune,Cerrillos,item
+WikiItems/Q3761,Q3761,_gBP4C8m---,"is in the administrative territorial entity,time zone,instance of,Wikivoyage banner,category for people who died here",capital of Ghana,Accra,item
+WikiItems/Q3769,Q3769,_gBP4C8y---,"time zone,instance of,capital,ISO 3166-1 alpha-3,type of administrative territorial entity,is in the administrative territorial entity,Wikivoyage banner,GND identifier,dmoz,official language,southernmost point,GeoNames ID",overseas French department,French Guiana,item
+WikiItems/Q3772,Q3772,_gBP4C86---,"place of birth,MusicBrainz artist ID,GND identifier,instance of,CANTIC,award received","American film director, screenwriter, producer, and actor",Quentin Tarantino,item
+WikiItems/Q3776,Q3776,_gBP4C9C---,"is in the administrative territorial entity,instance of",roundabout in the Dutch city of Arnhem,Willemsplein,item
+WikiItems/Q3779,Q3779,_gBP4C9O---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",city and commune in Chile,Chillán Viejo,item
+WikiItems/Q3780,Q3780,_gBP4C9a---,"is in the administrative territorial entity,instance of",capital of Sierra Leone,Freetown,item
+WikiItems/Q3781,Q3781,_gBP4C9i---,"instance of,is in the administrative territorial entity",roundabout in 's-Hertogenbosch,Willemsplein,item
+WikiItems/Q3789,Q3789,_gBP4C9q---,instance of,Wikimedia category,Category:Religion and belief templates,item
+WikiItems/Q3794,Q3794,_gBP4C92---,"place of birth,instance of,given name",French boxer,Laurent Dauthuille,item
+WikiItems/Q3796,Q3796,_gBP4D-----,"is in the administrative territorial entity,type of administrative territorial entity,instance of",Chilean town and commune,Cobquecura,item
+WikiItems/Q3798,Q3798,_gBP4D-K---,"is in the administrative territorial entity,Wikivoyage banner,instance of,type of administrative territorial entity,GND identifier","town in Schleswig-Holstein, Germany",Flensburg,item
+WikiItems/Q3799,Q3799,_gBP4D-S---,"is in the administrative territorial entity,type of administrative territorial entity,instance of,Wikivoyage banner",capital of Benin,Porto-Novo,item
+WikiItems/Q3800,Q3800,_gBP4D-e---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",Chilean town and commune,Cochrane,item
+WikiItems/Q3802,Q3802,_gBP4D-m---,"is in the administrative territorial entity,type of administrative territorial entity,instance of,GND identifier,dmoz,category for people who died here","city in Main-Kinzig-Kreis in Hesse, Germany",Hanau,item
+WikiItems/Q3807,Q3807,_gBP4D-u---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",Chilean commune and city,Coelemu,item
+WikiItems/Q3811,Q3811,_gBP4D-2---,instance of,Wikimedia category page,Category:Sports templates,item
+WikiItems/Q3818,Q3818,_gBP4D_----,"is in the administrative territorial entity,time zone,instance of,Wikivoyage banner",capital of Equatorial Guinea,Malabo,item
+WikiItems/Q3823,Q3823,_gBP4D_K---,"is in the administrative territorial entity,instance of",city quarter No. 104 of Cologne,Köln-Neustadt-Nord,item
+WikiItems/Q3825,Q3825,_gBP4D_S---,"instance of,is in the administrative territorial entity",capital of Gabon,Libreville,item
+WikiItems/Q3828,Q3828,_gBP4D_e---,"is in the administrative territorial entity,type of administrative territorial entity,instance of","city in Saxony-Anhalt, Germany",Dessau-Roßlau,item
+WikiItems/Q3830,Q3830,_gBP4D_m---,"is in the administrative territorial entity,instance of","city quarter No. 102 of Cologne, Germany",Köln-Neustadt-Süd,item
+WikiItems/Q3838,Q3838,_gBP4D_u---,"time zone,is in the administrative territorial entity,type of administrative territorial entity,Wikivoyage banner,instance of",capital city of the Democratic Republic of the Congo,Kinshasa,item
+WikiItems/Q3842,Q3842,_gBP4D_6---,,political ideology,marxist humanism,item
+WikiItems/Q3843,Q3843,_gBP4DAG---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",city and commune in southern Chile,Collipulli,item
+WikiItems/Q3849,Q3849,_gBP4DAO---,instance of,3G smartphone,Sony Ericsson M600,item
+WikiItems/Q3851,Q3851,_gBP4DAW---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",commune of Chile,Conchalí,item
+WikiItems/Q3852,Q3852,_gBP4DAe---,"time zone,is in the administrative territorial entity,type of administrative territorial entity,GND identifier,instance of","town in Rhineland-Palatinate, Germany",Worms,item
+WikiItems/Q3863,Q3863,_gBP4DAq---,GND identifier,minor planets that are not comets,asteroid,item
+WikiItems/Q3867,Q3867,_gBP4DA2---,"instance of,place of birth,given name",Dutch draughts player,Piet Roozenburg,item
+WikiItems/Q3874,Q3874,_gBP4DBC---,"category for people who died here,is in the administrative territorial entity,instance of,type of administrative territorial entity,GND identifier","seat of Landkreis Gießen and city in Hesse, Germany",Gießen,item
+WikiItems/Q3875,Q3875,_gBP4DBO---,"is in the administrative territorial entity,type of administrative territorial entity,instance of",Chilean town,Corral,item
+WikiItems/Q3876,Q3876,_gBP4DBW---,"time zone,Wikivoyage banner,instance of,GeoNames ID",capital of Malawi,Lilongwe,item
+WikiItems/Q3881,Q3881,_gBP4DBi---,"is in the administrative territorial entity,dmoz,instance of,GND identifier,Wikivoyage banner",capital of Zambia,Lusaka,item
+WikiItems/Q3886,Q3886,_gBP4DBm---,"is in the administrative territorial entity,GND identifier,instance of,type of administrative territorial entity","town in North Rhine-Westphalia, Germany",Dorsten,item
+WikiItems/Q3893,Q3893,_gBP4DBu---,"is in the administrative territorial entity,GND identifier,instance of,type of administrative territorial entity","city in North Rhine-Westphalia, Germany",Lüdenscheid,item
+WikiItems/Q3899,Q3899,_gBP4DB2---,"capital,official language,type of administrative territorial entity,is in the administrative territorial entity,dmoz,instance of",province in Indonesia,East Kalimantan,item
+WikiItems/Q3907,Q3907,_gBP4DCC---,"is in the administrative territorial entity,type of administrative territorial entity,instance of","city in Lower Saxony, Germany",Delmenhorst,item
+WikiItems/Q3908,Q3908,_gBP4DCK---,"instance of,type of administrative territorial entity,flag,is in the administrative territorial entity,time zone,capital,Wikivoyage banner,category for people who died here",community in Spain,Galicia,item
+WikiItems/Q3913,Q3913,_gBP4DCS---,"GND identifier,instance of",a system that represents numeric values using two symbols; 0 and 1,binary number,item
+WikiItems/Q3914,Q3914,_gBP4DCe---,GND identifier,institution designed for the teaching of students under the direction of teachers,school,item
+WikiItems/Q3918,Q3918,_gBP4DCq---,GND identifier,academic institution for further education,university,item
+WikiItems/Q3919,Q3919,_gBP4DCu---,"is in the administrative territorial entity,instance of,dmoz,GND identifier,Wikivoyage banner",capital of Botswana,Gaborone,item
+WikiItems/Q3920,Q3920,_gBP4DC6---,"instance of,is in the administrative territorial entity,type of administrative territorial entity,Wikivoyage banner,GND identifier,category for people who died here",town in the German state of Lower Saxony,Lüneburg,item
+WikiItems/Q3930,Q3930,_gBP4DDC---,GND identifier,racket sport,table tennis,item
+WikiItems/Q3936,Q3936,_gBP4DDK---,"time zone,is in the administrative territorial entity,Wikivoyage banner,type of administrative territorial entity,dmoz,instance of,GND identifier,category for people who died here","town in Bavaria, Germany",Bamberg,item
+WikiItems/Q3941,Q3941,_gBP4DDS---,"flag,capital,type of administrative territorial entity,time zone,is in the administrative territorial entity,instance of,Wikivoyage banner,GeoNames ID",federal subject of Russia,Astrakhan Oblast,item
+WikiItems/Q3942,Q3942,_gBP4DDe---,"is in the administrative territorial entity,type of administrative territorial entity,GND identifier,instance of,category for people who died here","town in Bavaria, Germany",Aschaffenburg,item
+WikiItems/Q3945,Q3945,_gBP4DDq---,instance of,Wikimedia project page,Project:Welcome page,item
+WikiItems/Q3948,Q3948,_gBP4DDy---,"instance of,is in the administrative territorial entity",South African town,Brits,item
+WikiItems/Q3949,Q3949,_gBP4DD2---,"instance of,is in the administrative territorial entity,type of administrative territorial entity,GND identifier","town in North Rhine-Westphalia, Germany",Unna,item
+WikiItems/Q3954,Q3954,_gBP4DEC---,"GND identifier,instance of,Sandrart.net person ID",Roman god of water and the sea,Neptune,item
+WikiItems/Q3955,Q3955,_gBP4DEO---,"is in the administrative territorial entity,time zone,instance of,type of administrative territorial entity,dmoz,GND identifier,Wikivoyage banner",city in Germany,Weimar,item
+WikiItems/Q3957,Q3957,_gBP4DEW---,HDS,settlement that is bigger than a village but smaller than a city,town,item
+WikiItems/Q3958,Q3958,_gBP4DEi---,"instance of,located next to body of water,is in the administrative territorial entity,GND identifier,population,type of administrative territorial entity","city in Mecklenburg-Vorpommern, Germany",Neubrandenburg,item
+WikiItems/Q3962,Q3962,_gBP4DEu---,,personal computer for mobile use,laptop,item
+WikiItems/Q3969,Q3969,_gBP4DEy---,"GND identifier,instance of,is in the administrative territorial entity","area surrounding the city of Hamburg, Germany",Hamburg Metropolitan Region,item
+WikiItems/Q3979,Q3979,_gBP4DF----,"instance of,is in the administrative territorial entity","village in Aberdeenshire, Scotland",Brideswell,item
+WikiItems/Q3990,Q3990,_gBP4DFK---,"place of birth,instance of",American voice actor and a stand-up comedian,Jeffrey Garcia,item
+WikiItems/Q3993,Q3993,_gBP4DFW---,"GND identifier,place of birth,instance of,award received,member of political party,given name",American aviator,Jacqueline Cochran,item
+WikiItems/Q3994,Q3994,_gBP4DFe---,"instance of,is in the administrative territorial entity,type of administrative territorial entity,GND identifier","town in Bavaria, Germany",Kempten,item
+WikiItems/Q3996,Q3996,_gBP4DFm---,"member of political party,instance of",Indian politician,V. P. Kalairajan,item
+WikiItems/Q3997,Q3997,_gBP4DFy---,instance of,1989 Tamil film,Nalaya Manithan,item
+WikiItems/Q4000,Q4000,_gBP4DF2---,instance of,"provincial school in Tellippalai, Sri Lanka",Mahajana College,item
+WikiItems/Q4003,Q4003,_gBP4DGC---,instance of,Wikipedia category,Category:Armenian Genocide memorials,item
+WikiItems/Q4006,Q4006,_gBP4DGK---,instance of,visual representation of an area,map,item
+WikiItems/Q4009,Q4009,_gBP4DGW---,instance of,Egyptian pharaoh of the 20th dynasty,Ramesses IX,item
+WikiItems/Q4012,Q4012,_gBP4DGe---,"GND identifier,place of birth,instance of,award received,given name",Russian general,Paul von Rennenkampf,item
+WikiItems/Q4029,Q4029,_gBP4DGm---,"MusicBrainz artist ID,place of birth,instance of","Canadian actress, voice actress, and singer",Tara Strong,item
+WikiItems/Q4038,Q4038,_gBP4DGu---,"instance of,place of birth",American comedy writer and performer,Tony Barbieri,item
+WikiItems/Q4040,Q4040,_gBP4DG6---,"capital,instance of,type of administrative territorial entity,flag,time zone,is in the administrative territorial entity,Wikivoyage banner,dmoz,category for people who died here",autonomous community in Spain,Aragon,item
+WikiItems/Q4042,Q4042,_gBP4DHC---,"MusicBrainz artist ID,GND identifier,instance of,place of birth,given name","American singer-songwriter, rapper, record producer, and actor",CeeLo Green,item
+WikiItems/Q4044,Q4044,_gBP4DHK---,"instance of,is in the administrative territorial entity,dmoz,type of administrative territorial entity,GND identifier","city in Baden-Württemberg, Germany",Offenburg,item
+WikiItems/Q4053,Q4053,_gBP4DHW---,instance of,mountain in Czech Republic,Mravenečník,item
+WikiItems/Q4061,Q4061,_gBP4DHe---,"MusicBrainz artist ID,GND identifier,place of birth,cause of death,instance of",American singer-songwriter and folk musician,Woody Guthrie,item
+WikiItems/Q4064,Q4064,_gBP4DHq---,"father,instance of,cause of death",A pharaoh in the ancient Egypt,Ramesses V,item
+WikiItems/Q4074,Q4074,_gBP4DHy---,"is in the administrative territorial entity,GND identifier,type of administrative territorial entity,instance of","town in North Rhine-Westphalia, Germany",Euskirchen,item
+WikiItems/Q4075,Q4075,_gBP4DH6---,"instance of,is in the administrative territorial entity",French rugby union team,Lyon OU,item
+WikiItems/Q4086,Q4086,_gBP4DIG---,"is in the administrative territorial entity,GND identifier,instance of,type of administrative territorial entity","town in the district Märkischer Kreis, in North Rhine-Westphalia, Germany",Menden (Sauerland),item
+WikiItems/Q4094,Q4094,_gBP4DIO---,"is in the administrative territorial entity,GND identifier,instance of,type of administrative territorial entity","city in North Rhine-Westphalia, Germany",Hilden,item
+WikiItems/Q4095,Q4095,_gBP4DIa---,"instance of,follows,point in time",year,28 BC,item
+WikiItems/Q4097,Q4097,_gBP4DIi---,interaction,lightest meson,pion,item
+WikiItems/Q4098,Q4098,_gBP4DIq---,"instance of,type of administrative territorial entity,dmoz,Wikivoyage banner,GND identifier,population,located next to body of water","town in Mecklenburg-Vorpommern, Germany",Greifswald,item
+WikiItems/Q4100,Q4100,_gBP4DI2---,"is in the administrative territorial entity,instance of,Wikivoyage banner,type of administrative territorial entity,dmoz,GND identifier,category for people who died here","town in Baden-Württemberg, Germany",Baden-Baden,item
+WikiItems/Q4101,Q4101,_gBP4DJ----,"instance of,follows,point in time",year,15 BC,item
+WikiItems/Q4102,Q4102,_gBP4DJG---,instance of,"airport in Bron, France",Lyon-Bron Airport,item
+WikiItems/Q4103,Q4103,_gBP4DJO---,"GND identifier,instance of","headland in the Algarve, southern Portugal",Cape St. Vincent,item
+WikiItems/Q4112,Q4112,_gBP4DJa---,instance of,"village in West Lothian, Scotland",Stoneyburn,item
+WikiItems/Q4114,Q4114,_gBP4DJi---,is in the administrative territorial entity,"village in Scotland, United Kingdom",Dechmont,item
+WikiItems/Q4120,Q4120,_gBP4DJq---,"is in the administrative territorial entity,GND identifier,instance of,type of administrative territorial entity","town in Bavaria, Germany",Neu-Ulm,item
+WikiItems/Q4126,Q4126,_gBP4DJ2---,"is in the administrative territorial entity,type of administrative territorial entity,GND identifier,instance of","town in Bavaria, Germany",Schweinfurt,item
+WikiItems/Q4127,Q4127,_gBP4DK----,"instance of,GND identifier,is in the administrative territorial entity,lake inflows,type of administrative territorial entity,HDS","lake in Germany, Switzerland and Austria",Lake Constance,item
+WikiItems/Q4128,Q4128,_gBP4DKG---,"place of birth,GND identifier,MusicBrainz artist ID,member of political party,instance of,NLA identifier,NTA identifier (Netherlands),BNE identifier,given name,CANTIC,EGAXA identifier","French poet, novelist and editor",Louis Aragon,item
+WikiItems/Q4131,Q4131,_gBP4DKK---,"instance of,is in the administrative territorial entity","town in South Lanarkshire, Scotland",Hamilton,item
+WikiItems/Q4136,Q4136,_gBP4DKW---,instance of,"list of people from Lyon, France",list of people from Lyon,item
+WikiItems/Q4149,Q4149,_gBP4DKe---,"is in the administrative territorial entity,type of administrative territorial entity,GND identifier,dmoz,instance of","town in Rhineland-Palatinate, Germany",Neustadt an der Weinstraße,item
+WikiItems/Q4152,Q4152,_gBP4DKm---,"instance of,GND identifier,is in the administrative territorial entity","palace in Bavaria, Germany",Neuschwanstein Castle,item
+WikiItems/Q4153,Q4153,_gBP4DKy---,"instance of,place of birth,employer,given name",professor at Iona College and author,George Bournoutian,item
+WikiItems/Q4161,Q4161,_gBP4DK6---,instance of,Wikimedia category page,Category:Universities and colleges by continent,item
+WikiItems/Q4163,Q4163,_gBP4DLC---,instance of,Wikipedia category,Category:Folk artists,item
+WikiItems/Q4166,Q4166,_gBP4DLK---,instance of,Wikimedia category page,Category: Tajik Soviet Socialist Republic,item
+WikiItems/Q4170,Q4170,_gBP4DLS---,instance of,Wikipedia category,Category: Engineering facilities by country,item
+WikiItems/Q4183,Q4183,_gBP4DLe---,"instance of,MusicBrainz release group ID",2012 album of Xavas,Gespaltene Persönlichkeit,item
+WikiItems/Q4190,Q4190,_gBP4DLm---,"located next to body of water,instance of,is in the administrative territorial entity,time zone,Wikivoyage banner,dmoz,population,GND identifier,type of administrative territorial entity,category for people who died here","town in Bavaria, Germany",Passau,item
+WikiItems/Q4191,Q4191,_gBP4DLy---,"is in the administrative territorial entity,instance of,type of administrative territorial entity,time zone,official language,Wikivoyage banner,GND identifier,HDS,population","city on Lake Lucerne, in central Switzerland",Lucerne,item
+WikiItems/Q4194,Q4194,_gBP4DL6---,"instance of,GND identifier,is in the administrative territorial entity","rural, hilly area in North Rhine-Westphalia, Germany",Sauerland,item
+WikiItems/Q4201,Q4201,_gBP4DMG---,"instance of,follows,point in time",year,42 BC,item
+WikiItems/Q4208,Q4208,_gBP4DMO---,"instance of,developer,service entry",organ in a large concert hall in France,Orgel des Auditorium Maurice Ravel,item
+WikiItems/Q4209,Q4209,_gBP4DMa---,"instance of,follows,point in time",year,47 BC,item
+WikiItems/Q4215,Q4215,_gBP4DMi---,"instance of,point in time",second operation People's Liberation Army of Yugoslavia in an attempt to capture the town of Vlasenica,Battle for Vlasenica (1943),item
+WikiItems/Q4217,Q4217,_gBP4DMu---,instance of,operation of the People's Liberation Army of Yugoslavia to the assault of Vlasenica,Battle for Vlasenica (1942),item
+WikiItems/Q4219,Q4219,_gBP4DM2---,"instance of,GND identifier","mountain range in North Rhine-Westphalia and Hesse, Germany",Rothaargebirge,item
+WikiItems/Q4222,Q4222,_gBP4DNC---,instance of,Wikimedia category page,Category:World Heritage Sites in Vatican City,item
+WikiItems/Q4224,Q4224,_gBP4DNK---,,demographic features of the population of the Russian Federation,Demographics of Russia,item
+WikiItems/Q4230,Q4230,_gBP4DNW---,instance of,intergovernmental union,Union of South American Nations,item
+WikiItems/Q4239,Q4239,_gBP4DNa---,instance of,Wikimedia category page,Category:Law enforcement in the Soviet Union,item
+WikiItems/Q4245,Q4245,_gBP4DNm---,"place of birth,award received,instance of,given name",French businessman,Jean-Michel Aulas,item
+WikiItems/Q4246,Q4246,_gBP4DNu---,instance of,Wikimedia category page,Category: Soviet Socialist Republic of Moldova,item
+WikiItems/Q4251,Q4251,_gBP4DN2---,"instance of,category's main topic",Wikimedia category page,Category: Soviet Socialist Republic of Belarus,item
+WikiItems/Q4258,Q4258,_gBP4DOC---,"instance of,is in the administrative territorial entity","square in the Perrache quarter, in the 2nd arrondissement of Lyon",Place Carnot (Lyon),item
+WikiItems/Q4261,Q4261,_gBP4DOK---,"member of sports team,GND identifier,award received,MusicBrainz artist ID,instance of,place of birth,given name",former French football player and manager,Michel Platini,item
+WikiItems/Q4263,Q4263,_gBP4DOS---,"instance of,category's main topic",Wikimedia category page,Category: Turkmen Soviet Socialist Republic,item
+WikiItems/Q4265,Q4265,_gBP4DOe---,"instance of,category's main topic",Wikimedia category page,Category:History of Benin,item
+WikiItems/Q4267,Q4267,_gBP4DOm---,"GND identifier,instance of,NTA identifier (Netherlands),NLA identifier,given name","French monk, a historian, a musical composer and a successful literary forger",Adémar de Chabannes,item
+WikiItems/Q4270,Q4270,_gBP4DOu---,"MusicBrainz artist ID,GND identifier,instance of,place of birth,given name",American rock musician,Tom DeLonge,item
+WikiItems/Q4280,Q4280,_gBP4DO2---,"instance of,political ideology",political party in Spain,Democratic Party,item
+WikiItems/Q4281,Q4281,_gBP4DPC---,"place of birth,instance of,given name",French author and illustrator,Anne Moreau-Vagnon,item
+WikiItems/Q4284,Q4284,_gBP4DPG---,"instance of,is in the administrative territorial entity",lake in the North Island of New Zealand,Lake Tarawera,item
+WikiItems/Q4287,Q4287,_gBP4DPS---,GND identifier,semi-solid emulsion,margarine,item
+WikiItems/Q4290,Q4290,_gBP4DPe---,,term in finance and economics,investing,item
+WikiItems/Q4291,Q4291,_gBP4DPi---,instance of,national hero of Yugoslavia,Ante Bilobrk,item
+WikiItems/Q4293,Q4293,_gBP4DPu---,"place of birth,instance of",American film and television actor,Jon Abrahams,item
+WikiItems/Q4299,Q4299,_gBP4DP2---,"MusicBrainz artist ID,instance of,GND identifier",American rock band,Coheed and Cambria,item
+WikiItems/Q4304,Q4304,_gBP4DP6---,"instance of,category's main topic",Wikimedia category page,Category:Romanian cuisine,item
+WikiItems/Q4307,Q4307,_gBP4DQG---,instance of,wikipedia category,Category: Members of the Supreme Soviet of the USSR 7 convocation,item
+WikiItems/Q4312,Q4312,_gBP4DQO---,instance of,wikipedia category,Category: Top music schools,item
+WikiItems/Q4313,Q4313,_gBP4DQW---,"place of birth,GND identifier,instance of,CANTIC,Oxford Biography Index Number,given name",French theologian and poet,Alain de Lille,item
+WikiItems/Q4316,Q4316,_gBP4DQe---,"instance of,original language",1986 animated fantasy-parody film,Project A-ko,item
+WikiItems/Q4318,Q4318,_gBP4DQm---,"GND identifier,instance of,place of birth,Sandrart.net person ID",Greek historian and rhetorician,Theopompus,item
+WikiItems/Q4319,Q4319,_gBP4DQy---,instance of,list of languages by number of native speakers,list of languages by number of native speakers,item
+WikiItems/Q4321,Q4321,_gBP4DR----,,printed circuit board (PCB) found in all modern computers,motherboard,item
+WikiItems/Q4326,Q4326,_gBP4DRG---,instance of,wikipedia category,Category:Alumni by university or college in China,item
+WikiItems/Q4328,Q4328,_gBP4DRS---,"instance of,GND identifier,given name,position held",Archbishop of Bourges,Alberich of Reims,item
+WikiItems/Q4329,Q4329,_gBP4DRa---,"instance of,CAS registry number,PubChem ID (CID),ChemSpider ID",bioactive product generated from Arachidonic Acid,Lipoxin,item
+WikiItems/Q4334,Q4334,_gBP4DRi---,,"note meant to be played as one that quickly ""slides"" or ""glides"" to another note",Grace Note,item
+WikiItems/Q4340,Q4340,_gBP4DRu---,"GND identifier,instance of,given name",12th-century author,Andreas Capellanus,item
+WikiItems/Q4345,Q4345,_gBP4DR2---,"category's main topic,instance of",Wikimedia category page,Category:History of Indonesia,item
+WikiItems/Q4352,Q4352,_gBP4DS----,instance of,Wikipedia category,Category:Sweden stubs,item
+WikiItems/Q4357,Q4357,_gBP4DSG---,"instance of,category's main topic",Wikimedia category page,Category:Estonian Soviet Socialist Republic,item
+WikiItems/Q4358,Q4358,_gBP4DSO---,instance of,Ukrainian parliamentary election of 2012,Ukrainian parliamentary election,item
+WikiItems/Q4359,Q4359,_gBP4DSW---,instance of,Wikipedia disambiguation page,DMG,item
+WikiItems/Q4360,Q4360,_gBP4DSi---,GND identifier,"highly magnetized, rotating neutron star",pulsar,item
+WikiItems/Q4364,Q4364,_gBP4DSq---,instance of,wikipedia category,Category:Educational organizations by country,item
+WikiItems/Q4365,Q4365,_gBP4DS2---,"category's main topic,instance of",Wikimedia category page,Category:Education by subject,item
+WikiItems/Q4368,Q4368,_gBP4DT----,instance of,wikipedia category,people born in the Provence of Cremona,item
+WikiItems/Q4373,Q4373,_gBP4DTG---,instance of,battle in the Thirty Years' War,Battle of White Mountain,item
+WikiItems/Q4374,Q4374,_gBP4DTO---,"instance of,category's main topic",Wikimedia category page,Category:Battles of the Thirty Years' War,item
+WikiItems/Q4378,Q4378,_gBP4DTW---,instance of,Flagship of the Tongan Maritime Force,Titilupe,item
+WikiItems/Q4382,Q4382,_gBP4DTe---,,"competitive event at the XXII Olympic Winter Games in Sochi, Russia",ice hockey at the 2014 Winter Olympics,item
+WikiItems/Q4387,Q4387,_gBP4DTq---,instance of,Wikimedia category page,Category:Presidents of Guinea,item
+WikiItems/Q4388,Q4388,_gBP4DT2---,"taxon rank,taxon name,instance of,Encyclopedia of Life ID",species of tree squirrel common throughout Eurasia,red squirrel,item
+WikiItems/Q4392,Q4392,_gBP4DU----,instance of,Wikimedia category page,Category:Belgian society,item
+WikiItems/Q4405,Q4405,_gBP4DUG---,"follows,instance of",premier club football tournament,1993–94 UEFA Champions League,item
