@@ -6,3 +6,20 @@ FOR i IN WikiItems
     RETURN MERGE(i, { claims: DOCUMENT("WikiClaims", i.claims)[*].prop} )
     
 ======= Result - results-_system.csv =======
+
+Q 2. Using 3 Edge collections and with a minimum of 2 hops and a max of 3 hops between the airports find the path in the form of a graph.
+
+(AQL query) :-
+FOR airport in airports
+  FILTER airport.city == "San Francisco" && airport.vip == true
+  FOR v, e, p IN 2..3 OUTBOUND
+  airport flights
+  FILTER v._id == "airports/KOA"
+  FILTER p.edges[*].Month ALL == 1
+  FILTER p.edges[*].Day ALL == 3
+  FILTER DATE_ADD(p.edges[0].ArrTimeUTC, 20, 'minutes') < p.edges[1].DepTimeUTC
+  FILTER DATE_ADD(p.edges[1].ArrTimeUTC, 20, 'minutes') < p.edges[2].DepTimeUTC
+  LIMIT 10
+  RETURN p
+  
+  ======= Result - results-graph.jpg =======
