@@ -49,7 +49,7 @@ create collections in arangodb with these given names and load the data in JSON 
 --------------------------------------------------------------------------------------
 create a graph where we input edge collection, _from and _to. 
 ```diff 
-@@ (refer "Wikidata.pptx" ) for graph images @@ 
+@@ (refer "SAI TANUSHA (tech pirates).pptx" ) for graph images @@ 
 ```
 --------------------------------------------------------------------------------------
 ### STEP 4
